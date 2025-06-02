@@ -1,5 +1,3 @@
-# Pfizer-Trade-Trex
-
 # Pfizer (PFE) Single Asset Machine Learning Based Trading Strategy
 By: Prakhar Mittal (2022B3A70426P)
 Email: f20220426@pilani.bits-pilani.ac.in
