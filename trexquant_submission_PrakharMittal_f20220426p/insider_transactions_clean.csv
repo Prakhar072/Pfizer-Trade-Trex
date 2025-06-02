@@ -1,0 +1,1129 @@
+Date,Issuer,Ticker,Insider,Title,Shares,Price,Action,Value,TransactionCode,AcquiredDisposedCode,SourceFile
+2016-12-20,PFIZER INC,PFE,SMITH JAMES C,,1566.0,32.84,Buy,51427.44,P,A,full-submission.txt
+2016-12-28,PFIZER INC,PFE,SMITH JAMES C,,24.0,32.38,Sell,777.1200000000001,S,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,OLSON LAURIE J,Executive Vice President,7133.0,,Buy,,A,A,full-submission.txt
+2017-02-27,PFIZER INC,PFE,Dolsten Mikael,President RD,31800.0,,Buy,,A,A,full-submission.txt
+2017-02-27,PFIZER INC,PFE,Dolsten Mikael,President RD,6655.0,34.25,Sell,227933.75,S,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,Dolsten Mikael,President RD,16400.0,34.28,Sell,562192.0,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,Dolsten Mikael,President RD,16581.0,34.28,Sell,568396.68,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,Dolsten Mikael,President RD,24668.0,34.27,Sell,845372.3600000001,S,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,Dolsten Mikael,President RD,27523.0,34.26,Sell,942937.98,S,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,16716.0,,Buy,,A,A,full-submission.txt
+2017-02-27,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,8319.0,34.28,Sell,285175.32,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,8621.0,34.28,Sell,295527.88,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,6016.0,,Buy,,A,A,full-submission.txt
+2017-02-27,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,2106.0,34.28,Sell,72193.68000000001,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,2225.0,34.28,Sell,76273.0,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,16329.0,,Buy,,A,A,full-submission.txt
+2017-02-27,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,8421.0,34.28,Sell,288671.88,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,8515.0,34.28,Sell,291894.2,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,12891.0,,Buy,,A,A,full-submission.txt
+2017-02-27,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,6416.0,34.28,Sell,219940.48,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,6648.0,34.28,Sell,227893.44,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,LUND-JURGENSEN KIRSTEN,Executive Vice President,3040.0,,Buy,,A,A,full-submission.txt
+2017-02-27,PFIZER INC,PFE,LUND-JURGENSEN KIRSTEN,Executive Vice President,989.0,34.28,Sell,33902.92,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,LUND-JURGENSEN KIRSTEN,Executive Vice President,1050.0,34.28,Sell,35994.0,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,3857.0,34.28,Sell,132217.96,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,19046.0,34.28,Sell,652896.88,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,18838.0,34.28,Sell,645766.64,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,36528.0,,Buy,,A,A,full-submission.txt
+2017-02-27,PFIZER INC,PFE,READ IAN C,Chairman CEO,110011.0,,Buy,,A,A,full-submission.txt
+2017-02-27,PFIZER INC,PFE,OLSON LAURIE J,Executive Vice President,2667.0,34.28,Sell,91424.76000000001,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,YOUNG JOHN D,Group President,15957.0,34.28,Sell,547005.96,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,YOUNG JOHN D,Group President,15779.0,34.28,Sell,540904.12,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,YOUNG JOHN D,Group President,30941.0,,Buy,,A,A,full-submission.txt
+2017-02-27,PFIZER INC,PFE,OLSON LAURIE J,Executive Vice President,2638.0,34.28,Sell,90430.64,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,17189.0,,Buy,,A,A,full-submission.txt
+2017-02-27,PFIZER INC,PFE,READ IAN C,Chairman CEO,55609.0,34.28,Sell,1906276.52,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,9702.0,34.28,Sell,332584.56,F,D,full-submission.txt
+2017-02-27,PFIZER INC,PFE,READ IAN C,Chairman CEO,53609.0,34.28,Sell,1837716.52,F,D,full-submission.txt
+2017-03-01,PFIZER INC,PFE,Dolsten Mikael,President RD,15569.0,34.48,Sell,536819.12,S,D,full-submission.txt
+2017-03-02,PFIZER INC,PFE,Dolsten Mikael,President RD,15401.0,34.55,Sell,532104.5499999999,S,D,full-submission.txt
+2017-03-02,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,20000.0,34.66,Sell,693199.9999999999,S,D,full-submission.txt
+2017-03-09,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,36000.0,34.07,Sell,1226520.0,S,D,full-submission.txt
+2017-03-09,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,4405.0,34.05,Buy,149990.25,I,A,full-submission.txt
+2017-03-10,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,4500.0,34.19,Sell,153855.0,S,D,full-submission.txt
+2017-03-31,PFIZER INC,PFE,YOUNG JOHN D,Group President,8732.0,,Sell,,G,D,full-submission.txt
+2017-08-04,PFIZER INC,PFE,READ IAN C,Chairman CEO,68834.0,34.0,Sell,2340356.0,S,D,full-submission.txt
+2017-08-04,PFIZER INC,PFE,READ IAN C,Chairman CEO,28116.0,34.0,Sell,955944.0,S,D,full-submission.txt
+2017-08-07,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,3000.0,33.56,Sell,100680.0,S,D,full-submission.txt
+2017-08-07,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,12000.0,33.49,Sell,401880.0,S,D,full-submission.txt
+2017-08-21,PFIZER INC,PFE,OLSON LAURIE J,Executive Vice President,8064.0,32.7,Sell,263692.80000000005,S,D,full-submission.txt
+2017-08-31,PFIZER INC,PFE,READ IAN C,Chairman CEO,55975.0,34.0,Sell,1903150.0,S,D,full-submission.txt
+2017-08-31,PFIZER INC,PFE,READ IAN C,Chairman CEO,141193.0,34.0,Sell,4800562.0,S,D,full-submission.txt
+2017-08-31,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,94409.0,34.0,Sell,3209906.0,S,D,full-submission.txt
+2017-08-31,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,7350.0,34.0,Sell,249900.0,S,D,full-submission.txt
+2017-09-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,7350.0,34.0,Sell,249900.0,S,D,full-submission.txt
+2017-09-12,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,30553.0,35.0,Sell,1069355.0,S,D,full-submission.txt
+2017-09-12,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,7677.0,35.0,Sell,268695.0,S,D,full-submission.txt
+2017-10-02,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,7350.0,35.65,Sell,262027.5,S,D,full-submission.txt
+2017-10-10,"RHYTHM PHARMACEUTICALS, INC.",RYTM,PFIZER INC,,40000.0,17.0,Buy,680000.0,P,A,full-submission.txt
+2017-10-10,"RHYTHM PHARMACEUTICALS, INC.",RYTM,PFIZER INC,,447514.0,,Buy,,C,A,full-submission.txt
+2017-10-10,"RHYTHM PHARMACEUTICALS, INC.",RYTM,PFIZER INC,,940125.0,,Buy,,C,A,full-submission.txt
+2017-11-01,PFIZER INC,PFE,YOUNG JOHN D,Group President,4219.0,,Sell,,G,D,full-submission.txt
+2017-11-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,7350.0,34.94,Sell,256808.99999999997,S,D,full-submission.txt
+2017-12-08,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",300.0,,Sell,,G,D,full-submission.txt
+2017-12-14,PFIZER INC,PFE,READ IAN C,Chairman CEO,7460.0,,Sell,,G,D,full-submission.txt
+2017-12-15,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,6750.0,37.0,Sell,249750.0,S,D,full-submission.txt
+2017-12-15,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,8000.0,37.07,Sell,296560.0,S,D,full-submission.txt
+2017-12-29,PFIZER INC,PFE,YOUNG JOHN D,Group President,55218.0,,Buy,,A,A,full-submission.txt
+2018-02-22,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",4166.0,,Buy,,A,A,full-submission.txt
+2018-02-24,PFIZER INC,PFE,YOUNG JOHN D,Group President,13886.0,35.98,Sell,499618.27999999997,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,17674.0,36.26,Sell,640859.24,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,65280.0,18.9,Buy,1233792.0,M,A,full-submission.txt
+2018-02-24,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,12621.0,35.98,Sell,454103.57999999996,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,11262.0,36.26,Sell,408360.12,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,39555.0,18.9,Buy,747589.5,M,A,full-submission.txt
+2018-02-24,PFIZER INC,PFE,LUND-JURGENSEN KIRSTEN,Executive Vice President,5091.0,35.98,Sell,183174.18,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,LUND-JURGENSEN KIRSTEN,Executive Vice President,3692.0,36.26,Sell,133871.91999999998,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,LUND-JURGENSEN KIRSTEN,Executive Vice President,15957.0,18.9,Buy,301587.3,M,A,full-submission.txt
+2018-02-24,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,20829.0,35.98,Sell,749427.4199999999,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,YOUNG JOHN D,Group President,12214.0,36.26,Sell,442879.63999999996,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,6541.0,36.26,Sell,237176.65999999997,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,5068.0,35.98,Sell,182346.63999999998,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,9026.0,35.98,Sell,324755.48,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,91876.0,18.9,Buy,1736456.4,M,A,full-submission.txt
+2018-02-24,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,26555.0,36.26,Sell,962884.2999999999,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,29315.0,35.98,Sell,1054753.7,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,91876.0,18.9,Buy,1736456.4,M,A,full-submission.txt
+2018-02-24,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,29194.0,36.26,Sell,1058574.44,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,29315.0,35.98,Sell,1054753.7,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,OLSON LAURIE J,Executive Vice President,15716.0,18.9,Buy,297032.39999999997,M,A,full-submission.txt
+2018-02-24,PFIZER INC,PFE,OLSON LAURIE J,Executive Vice President,3649.0,36.26,Sell,132312.74,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,OLSON LAURIE J,Executive Vice President,5015.0,35.98,Sell,180439.69999999998,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,READ IAN C,Chairman CEO,483559.0,18.9,Buy,9139265.1,M,A,full-submission.txt
+2018-02-24,PFIZER INC,PFE,READ IAN C,Chairman CEO,420000.0,20.9,Buy,8778000.0,M,A,full-submission.txt
+2018-02-24,PFIZER INC,PFE,READ IAN C,Chairman CEO,126006.0,36.26,Sell,4568977.56,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,READ IAN C,Chairman CEO,154058.0,36.26,Sell,5586143.08,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,READ IAN C,Chairman CEO,154289.0,35.98,Sell,5551318.22,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,READ IAN C,Chairman CEO,157353.0,35.98,Sell,5661560.9399999995,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,15885.0,18.9,Buy,300226.5,M,A,full-submission.txt
+2018-02-24,PFIZER INC,PFE,YOUNG JOHN D,Group President,43520.0,18.9,Buy,822527.9999999999,M,A,full-submission.txt
+2018-02-24,PFIZER INC,PFE,Dolsten Mikael,President RD,55544.0,35.98,Sell,1998473.1199999999,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,28288.0,18.9,Buy,534643.2,M,A,full-submission.txt
+2018-02-24,PFIZER INC,PFE,Dolsten Mikael,President RD,53949.0,36.26,Sell,1956190.74,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,3680.0,36.26,Sell,133436.8,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,55544.0,35.98,Sell,1998473.1199999999,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",28288.0,18.9,Buy,534643.2,M,A,full-submission.txt
+2018-02-24,PFIZER INC,PFE,Dolsten Mikael,President RD,174081.0,18.9,Buy,3290130.9,M,A,full-submission.txt
+2018-02-24,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",9026.0,35.98,Sell,324755.48,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,BOURLA ALBERT,Chief Operating Officer,25387.0,18.9,Buy,479814.3,M,A,full-submission.txt
+2018-02-24,PFIZER INC,PFE,BOURLA ALBERT,Chief Operating Officer,5873.0,36.26,Sell,212954.97999999998,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",6544.0,36.26,Sell,237285.43999999997,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,BOURLA ALBERT,Chief Operating Officer,8100.0,35.98,Sell,291438.0,F,D,full-submission.txt
+2018-02-24,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,174081.0,18.9,Buy,3290130.9,M,A,full-submission.txt
+2018-02-24,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,53945.0,36.26,Sell,1956045.7,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,43042.0,,Buy,,A,A,full-submission.txt
+2018-02-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,43042.0,,Buy,,A,A,full-submission.txt
+2018-02-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,22907.0,37.09,Sell,849620.6300000001,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,YOUNG JOHN D,Group President,86086.0,,Buy,,A,A,full-submission.txt
+2018-02-26,PFIZER INC,PFE,YOUNG JOHN D,Group President,42157.0,37.09,Sell,1563603.1300000001,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,LUND-JURGENSEN KIRSTEN,Executive Vice President,4178.0,,Buy,,A,A,full-submission.txt
+2018-02-26,PFIZER INC,PFE,LUND-JURGENSEN KIRSTEN,Executive Vice President,1420.0,37.09,Sell,52667.8,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,CORNWELL W DON,,1000.0,36.71,Sell,36710.0,S,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,Dolsten Mikael,President RD,42157.0,37.09,Sell,1563603.1300000001,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,21078.0,37.09,Sell,781783.02,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",7174.0,,Buy,,A,A,full-submission.txt
+2018-02-26,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,42157.0,37.09,Sell,1563603.1300000001,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",3028.0,37.09,Sell,112308.52,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,Dolsten Mikael,President RD,86086.0,,Buy,,A,A,full-submission.txt
+2018-02-26,PFIZER INC,PFE,CORNWELL W DON,,458.0,36.8,Sell,16854.399999999998,S,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,READ IAN C,Chairman CEO,130849.0,37.09,Sell,4853189.41,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,OLSON LAURIE J,Executive Vice President,7249.0,37.09,Sell,268865.41000000003,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,OLSON LAURIE J,Executive Vice President,19847.0,,Buy,,A,A,full-submission.txt
+2018-02-26,PFIZER INC,PFE,Hwang Angela,Group President,976.0,37.09,Sell,36199.840000000004,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,LUND-JURGENSEN KIRSTEN,Executive Vice President,896.0,37.09,Sell,33232.64,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,LUND-JURGENSEN KIRSTEN,Executive Vice President,9510.0,37.19,Sell,353676.89999999997,S,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",1538.0,37.09,Sell,57044.420000000006,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,2413.0,37.09,Sell,89498.17000000001,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,86086.0,,Buy,,A,A,full-submission.txt
+2018-02-26,PFIZER INC,PFE,Hwang Angela,Group President,4304.0,,Buy,,A,A,full-submission.txt
+2018-02-26,PFIZER INC,PFE,Hwang Angela,Group President,1463.0,37.09,Sell,54262.670000000006,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,52608.0,,Buy,,A,A,full-submission.txt
+2018-02-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,24652.0,37.09,Sell,914342.68,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,43042.0,,Buy,,A,A,full-submission.txt
+2018-02-26,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,21078.0,37.09,Sell,781783.02,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,19847.0,,Buy,,A,A,full-submission.txt
+2018-02-26,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,7310.0,37.09,Sell,271127.9,F,D,full-submission.txt
+2018-02-26,PFIZER INC,PFE,READ IAN C,Chairman CEO,286952.0,,Buy,,A,A,full-submission.txt
+2018-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,13518.0,37.03,Sell,500571.54000000004,S,D,full-submission.txt
+2018-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,13182.0,37.02,Sell,487997.64,S,D,full-submission.txt
+2018-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,3300.0,37.04,Sell,122232.0,S,D,full-submission.txt
+2018-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,2868.0,37.05,Sell,106259.4,S,D,full-submission.txt
+2018-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,500.0,37.06,Sell,18530.0,S,D,full-submission.txt
+2018-02-27,PFIZER INC,PFE,Dolsten Mikael,President RD,22291.0,37.04,Sell,825658.64,S,D,full-submission.txt
+2018-02-27,PFIZER INC,PFE,Dolsten Mikael,President RD,25120.0,37.03,Sell,930193.6,S,D,full-submission.txt
+2018-02-27,PFIZER INC,PFE,Dolsten Mikael,President RD,7844.0,37.05,Sell,290620.19999999995,S,D,full-submission.txt
+2018-02-27,PFIZER INC,PFE,Dolsten Mikael,President RD,100.0,37.02,Sell,3702.0000000000005,S,D,full-submission.txt
+2018-02-27,PFIZER INC,PFE,Dolsten Mikael,President RD,100.0,37.07,Sell,3707.0,S,D,full-submission.txt
+2018-02-27,PFIZER INC,PFE,CORNWELL W DON,,300.0,37.05,Sell,11115.0,S,D,full-submission.txt
+2018-02-27,PFIZER INC,PFE,Dolsten Mikael,President RD,9132.0,37.06,Sell,338431.92000000004,S,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,3200.0,36.85,Sell,117920.0,S,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,5400.0,36.82,Sell,198828.0,S,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,1100.0,36.84,Sell,40524.00000000001,S,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,101872.0,27.37,Buy,2788236.64,M,A,full-submission.txt
+2018-02-28,PFIZER INC,PFE,Dolsten Mikael,President RD,120330.0,35.7,Sell,4295781.0,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,Dolsten Mikael,President RD,198238.0,27.37,Buy,5425774.0600000005,M,A,full-submission.txt
+2018-02-28,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,17079.0,36.83,Sell,629019.57,S,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,127015.0,35.7,Sell,4534435.5,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,40271.0,36.31,Sell,1462240.01,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,209251.0,27.37,Buy,5727199.87,M,A,full-submission.txt
+2018-02-28,PFIZER INC,PFE,Dolsten Mikael,President RD,38152.0,36.31,Sell,1385299.12,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,19606.0,36.31,Sell,711893.8600000001,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,3710.0,36.31,Sell,134710.1,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,19273.0,27.37,Buy,527502.01,M,A,full-submission.txt
+2018-02-28,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",20055.0,35.7,Sell,715963.5,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,11699.0,35.7,Sell,417654.30000000005,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,46806.0,27.37,Buy,1281080.22,M,A,full-submission.txt
+2018-02-28,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,9008.0,36.31,Sell,327080.48000000004,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,28411.0,35.7,Sell,1014272.7000000001,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,104626.0,27.37,Buy,2863613.62,M,A,full-submission.txt
+2018-02-28,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,20136.0,36.31,Sell,731138.16,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,63508.0,35.7,Sell,2267235.6,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,LUND-JURGENSEN KIRSTEN,Executive Vice President,19273.0,27.37,Buy,527502.01,M,A,full-submission.txt
+2018-02-28,PFIZER INC,PFE,LUND-JURGENSEN KIRSTEN,Executive Vice President,2573.0,36.31,Sell,93425.63,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,LUND-JURGENSEN KIRSTEN,Executive Vice President,11699.0,35.7,Sell,417654.30000000005,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,61836.0,35.7,Sell,2207545.2,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",6359.0,36.31,Sell,230895.29,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,BOURLA ALBERT,Chief Operating Officer,24233.0,35.7,Sell,865118.1000000001,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,23613.0,,Buy,,A,A,full-submission.txt
+2018-02-28,PFIZER INC,PFE,YOUNG JOHN D,Group President,73535.0,35.7,Sell,2625199.5,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",33040.0,27.37,Buy,904304.8,M,A,full-submission.txt
+2018-02-28,PFIZER INC,PFE,YOUNG JOHN D,Group President,121145.0,27.37,Buy,3315738.65,M,A,full-submission.txt
+2018-02-28,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,66850.0,35.7,Sell,2386545.0,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,23035.0,36.31,Sell,836400.8500000001,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,110132.0,27.37,Buy,3014312.8400000003,M,A,full-submission.txt
+2018-02-28,PFIZER INC,PFE,READ IAN C,Chairman CEO,394416.0,35.7,Sell,14080651.200000001,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,YOUNG JOHN D,Group President,23315.0,36.31,Sell,846567.65,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,READ IAN C,Chairman CEO,649780.0,27.37,Buy,17784478.6,M,A,full-submission.txt
+2018-02-28,PFIZER INC,PFE,READ IAN C,Chairman CEO,104254.0,36.31,Sell,3785462.74,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,BOURLA ALBERT,Chief Operating Officer,6198.0,36.31,Sell,225049.38,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,BOURLA ALBERT,Chief Operating Officer,39923.0,27.37,Buy,1092692.51,M,A,full-submission.txt
+2018-02-28,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,12567.0,36.31,Sell,456307.77,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,OLSON LAURIE J,Executive Vice President,7419.0,36.31,Sell,269383.89,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,OLSON LAURIE J,Executive Vice President,23397.0,35.7,Sell,835272.9,F,D,full-submission.txt
+2018-02-28,PFIZER INC,PFE,OLSON LAURIE J,Executive Vice President,38546.0,27.37,Buy,1055004.02,M,A,full-submission.txt
+2018-03-02,PFIZER INC,PFE,Dolsten Mikael,President RD,13986.0,35.85,Sell,501398.10000000003,S,D,full-submission.txt
+2018-03-06,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,316.0,35.81,Sell,11315.960000000001,S,D,full-submission.txt
+2018-03-06,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,330.0,35.8,Sell,11813.999999999998,S,D,full-submission.txt
+2018-03-06,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,10715.0,35.7,Sell,382525.50000000006,S,D,full-submission.txt
+2018-03-06,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,30539.0,35.78,Sell,1092685.42,S,D,full-submission.txt
+2018-03-06,PFIZER INC,PFE,HILL CHARLES H,Executive Vice President,493.0,35.79,Sell,17644.47,S,D,full-submission.txt
+2018-03-09,PFIZER INC,PFE,Dolsten Mikael,President RD,100.0,36.58,Sell,3658.0,S,D,full-submission.txt
+2018-03-09,PFIZER INC,PFE,Dolsten Mikael,President RD,2329.0,36.55,Sell,85124.95,S,D,full-submission.txt
+2018-03-09,PFIZER INC,PFE,Dolsten Mikael,President RD,4154.0,36.57,Sell,151911.78,S,D,full-submission.txt
+2018-03-09,PFIZER INC,PFE,Dolsten Mikael,President RD,5300.0,36.59,Sell,193927.00000000003,S,D,full-submission.txt
+2018-03-09,PFIZER INC,PFE,Dolsten Mikael,President RD,9900.0,36.6,Sell,362340.0,S,D,full-submission.txt
+2018-03-09,PFIZER INC,PFE,Dolsten Mikael,President RD,32457.0,36.61,Sell,1188250.77,S,D,full-submission.txt
+2018-03-09,PFIZER INC,PFE,Dolsten Mikael,President RD,15459.0,36.56,Sell,565181.04,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,3800.0,36.54,Sell,138852.0,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,1000.0,36.8,Sell,36800.0,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,1300.0,36.84,Sell,47892.00000000001,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,1572.0,36.77,Sell,57802.44,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,1800.0,36.9,Sell,66420.0,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,2300.0,36.88,Sell,84824.0,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,2440.0,36.89,Sell,90011.6,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,2575.0,36.86,Sell,94914.5,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,3700.0,36.78,Sell,136086.0,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,4100.0,36.87,Sell,151167.0,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,4413.0,36.85,Sell,162619.05000000002,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,4600.0,36.92,Sell,169832.0,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,5500.0,36.93,Sell,203115.0,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,13900.0,36.94,Sell,513465.99999999994,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,169.0,36.59,Sell,6183.710000000001,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,1600.0,36.51,Sell,58416.0,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,2200.0,36.6,Sell,80520.0,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,2700.0,36.52,Sell,98604.00000000001,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,2854.0,36.56,Sell,104342.24,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,3100.0,36.53,Sell,113243.0,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,3200.0,36.58,Sell,117056.0,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,7000.0,36.55,Sell,255849.99999999997,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,800.0,36.81,Sell,29448.0,S,D,full-submission.txt
+2018-03-13,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,700.0,36.57,Sell,25599.0,S,D,full-submission.txt
+2018-04-26,PFIZER INC,PFE,CORNWELL W DON,,5223.0,36.85,Buy,192467.55000000002,A,A,full-submission.txt
+2018-05-01,PFIZER INC,PFE,READ IAN C,Chairman CEO,1500.0,36.05,Sell,54074.99999999999,S,D,full-submission.txt
+2018-05-01,PFIZER INC,PFE,READ IAN C,Chairman CEO,3700.0,36.03,Sell,133311.0,S,D,full-submission.txt
+2018-05-01,PFIZER INC,PFE,READ IAN C,Chairman CEO,4141.0,36.04,Sell,149241.63999999998,S,D,full-submission.txt
+2018-05-01,PFIZER INC,PFE,READ IAN C,Chairman CEO,14600.0,36.02,Sell,525892.0,S,D,full-submission.txt
+2018-05-01,PFIZER INC,PFE,READ IAN C,Chairman CEO,20543.0,36.01,Sell,739753.4299999999,S,D,full-submission.txt
+2018-05-01,PFIZER INC,PFE,READ IAN C,Chairman CEO,87828.0,36.0,Sell,3161808.0,S,D,full-submission.txt
+2018-06-04,PFIZER INC,PFE,CORNWELL W DON,,5223.0,36.4,Sell,190117.19999999998,S,D,full-submission.txt
+2018-06-06,PFIZER INC,PFE,OLSON LAURIE J,Executive Vice President,15758.0,36.45,Sell,574379.1000000001,S,D,full-submission.txt
+2018-06-06,PFIZER INC,PFE,OLSON LAURIE J,Executive Vice President,3242.0,36.46,Sell,118203.32,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,700.0,37.54,Sell,26278.0,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,4215.0,37.42,Sell,157725.30000000002,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,900.0,37.52,Sell,33768.0,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,1000.0,37.53,Sell,37530.0,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,2100.0,37.45,Sell,78645.0,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,2200.0,37.51,Sell,82522.0,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,3300.0,37.46,Sell,123618.0,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,3300.0,37.43,Sell,123519.0,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,3400.0,37.48,Sell,127431.99999999999,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,500.0,37.44,Sell,18720.0,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,5800.0,37.5,Sell,217500.0,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,7700.0,37.41,Sell,288057.0,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,16111.0,37.31,Sell,601101.41,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,3500.0,37.49,Sell,131215.0,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,61325.0,37.34,Sell,2289875.5,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,55127.0,37.36,Sell,2059544.72,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,46564.0,37.37,Sell,1740096.68,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,42558.0,37.4,Sell,1591669.2,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,72852.0,37.35,Sell,2721022.2,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,32431.0,37.33,Sell,1210649.23,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,31033.0,37.39,Sell,1160323.87,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,27875.0,37.38,Sell,1041967.5000000001,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,24163.0,37.32,Sell,901763.16,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,34099.0,37.3,Sell,1271892.7,S,D,full-submission.txt
+2018-07-16,PFIZER INC,PFE,READ IAN C,Chairman CEO,4000.0,37.47,Sell,149880.0,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,100.0,37.15,Sell,3715.0,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,300.0,37.13,Sell,11139.0,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,426.0,37.14,Sell,15821.64,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,600.0,37.29,Sell,22374.0,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,700.0,37.24,Sell,26068.0,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,830.0,37.3,Sell,30958.999999999996,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,1000.0,37.27,Sell,37270.0,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,1300.0,37.28,Sell,48464.0,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,1565.0,37.18,Sell,58186.7,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,2780.0,37.26,Sell,103582.79999999999,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,2288.0,37.19,Sell,85090.72,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,3756.0,37.17,Sell,139610.52000000002,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,3885.0,37.21,Sell,144560.85,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,4450.0,37.2,Sell,165540.0,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,4792.0,37.22,Sell,178358.24,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,7501.0,37.25,Sell,279412.25,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,2408.0,37.16,Sell,89481.28,S,D,full-submission.txt
+2018-07-20,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,1700.0,37.23,Sell,63290.99999999999,S,D,full-submission.txt
+2018-08-01,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,150484.0,40.0,Sell,6019360.0,S,D,full-submission.txt
+2018-08-01,PFIZER INC,PFE,LUND-JURGENSEN KIRSTEN,Executive Vice President,5400.0,40.05,Sell,216269.99999999997,S,D,full-submission.txt
+2018-08-01,PFIZER INC,PFE,LUND-JURGENSEN KIRSTEN,Executive Vice President,15542.0,40.04,Sell,622301.6799999999,S,D,full-submission.txt
+2018-08-01,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",8300.0,40.17,Sell,333411.0,S,D,full-submission.txt
+2018-08-01,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,1600.0,39.72,Sell,63552.0,S,D,full-submission.txt
+2018-08-01,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,3300.0,39.7,Sell,131010.00000000001,S,D,full-submission.txt
+2018-08-01,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,3340.0,39.71,Sell,132631.4,S,D,full-submission.txt
+2018-08-01,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,10958.0,39.69,Sell,434923.01999999996,S,D,full-submission.txt
+2018-08-01,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",18514.0,40.16,Sell,743522.24,S,D,full-submission.txt
+2018-08-03,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,100.0,39.56,Sell,3956.0,S,D,full-submission.txt
+2018-08-03,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,100.0,39.52,Sell,3952.0000000000005,S,D,full-submission.txt
+2018-08-03,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,2100.0,39.55,Sell,83055.0,S,D,full-submission.txt
+2018-08-03,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,4500.0,39.53,Sell,177885.0,S,D,full-submission.txt
+2018-08-03,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,6400.0,39.51,Sell,252864.0,S,D,full-submission.txt
+2018-08-03,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,12442.0,39.5,Sell,491459.0,S,D,full-submission.txt
+2018-08-13,PFIZER INC,PFE,OLSON LAURIE J,Executive Vice President,10214.0,41.0,Sell,418774.0,S,D,full-submission.txt
+2018-08-13,ICU MEDICAL INC/DE,ICUI,PFIZER INC,,700000.0,284.35,Sell,199045000.00000003,S,D,full-submission.txt
+2018-09-13,PFIZER INC,PFE,Dolsten Mikael,President RD,57211.0,32.23,Buy,1843910.5299999998,M,A,full-submission.txt
+2018-09-13,PFIZER INC,PFE,Dolsten Mikael,President RD,124501.0,21.03,Buy,2618256.0300000003,M,A,full-submission.txt
+2018-10-15,"Allogene Therapeutics, Inc.",ALLO,PFIZER INC,,21976484.0,,Buy,,C,A,full-submission.txt
+2018-10-15,"Allogene Therapeutics, Inc.",ALLO,PFIZER INC,,55556.0,18.0,Buy,1000008.0,P,A,full-submission.txt
+2018-11-02,PFIZER INC,PFE,READ IAN C,Chairman CEO,458506.0,21.03,Buy,9642381.18,M,A,full-submission.txt
+2018-11-02,PFIZER INC,PFE,READ IAN C,Chairman CEO,280503.0,27.37,Buy,7677367.11,M,A,full-submission.txt
+2018-11-02,PFIZER INC,PFE,READ IAN C,Chairman CEO,212200.0,32.23,Buy,6839205.999999999,M,A,full-submission.txt
+2018-11-02,PFIZER INC,PFE,READ IAN C,Chairman CEO,148992.0,34.59,Buy,5153633.28,M,A,full-submission.txt
+2018-11-15,ICU MEDICAL INC/DE,ICUI,PFIZER INC,,2500000.0,209.25,Sell,523125000.0,S,D,full-submission.txt
+2018-12-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,7000.0,,Sell,,G,D,full-submission.txt
+2019-01-30,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,265.0,41.21,Sell,10920.65,S,D,full-submission.txt
+2019-01-30,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,17099.0,41.19,Sell,704307.8099999999,S,D,full-submission.txt
+2019-01-30,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,1800.0,41.15,Sell,74070.0,S,D,full-submission.txt
+2019-01-30,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,2100.0,41.16,Sell,86436.0,S,D,full-submission.txt
+2019-01-30,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,6000.0,41.18,Sell,247080.0,S,D,full-submission.txt
+2019-01-30,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,9136.0,41.2,Sell,376403.2,S,D,full-submission.txt
+2019-01-30,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,1500.0,41.17,Sell,61755.0,S,D,full-submission.txt
+2019-01-30,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,900.0,41.22,Sell,37098.0,S,D,full-submission.txt
+2019-01-31,PFIZER INC,PFE,Dolsten Mikael,President RD,83907.0,27.37,Buy,2296534.59,M,A,full-submission.txt
+2019-01-31,PFIZER INC,PFE,Dolsten Mikael,President RD,42061.0,34.59,Buy,1454889.9900000002,M,A,full-submission.txt
+2019-02-01,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,5000.0,42.75,Sell,213750.0,S,D,full-submission.txt
+2019-02-04,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,5182.0,42.44,Sell,219924.08,I,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,YOUNG JOHN D,Group President,11239.0,42.96,Sell,482827.44,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,19290.0,21.03,Buy,405668.7,M,A,full-submission.txt
+2019-02-23,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,5077.0,42.96,Sell,218107.92,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,6007.0,41.91,Sell,251753.36999999997,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,43724.0,21.03,Buy,919515.7200000001,M,A,full-submission.txt
+2019-02-23,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,11343.0,42.96,Sell,487295.28,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,13615.0,41.91,Sell,570604.6499999999,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,32420.0,42.96,Sell,1392763.2,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,30433.0,41.91,Sell,1275447.0299999998,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,97737.0,21.03,Buy,2055409.11,M,A,full-submission.txt
+2019-02-23,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,58983.0,42.96,Sell,2533909.68,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,57663.0,41.91,Sell,2416656.3299999996,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,185185.0,21.03,Buy,3894440.5500000003,M,A,full-submission.txt
+2019-02-23,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,27230.0,41.91,Sell,1141209.2999999998,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,25991.0,42.96,Sell,1116573.36,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,87449.0,21.03,Buy,1839052.4700000002,M,A,full-submission.txt
+2019-02-23,PFIZER INC,PFE,BOURLA ALBERT,Chief Executive Officer,11212.0,41.91,Sell,469894.92,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,BOURLA ALBERT,Chief Executive Officer,8749.0,42.96,Sell,375857.04,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,BOURLA ALBERT,Chief Executive Officer,36008.0,21.03,Buy,757248.24,M,A,full-submission.txt
+2019-02-23,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,5606.0,41.91,Sell,234947.46,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,4252.0,42.96,Sell,182665.92,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,18004.0,21.03,Buy,378624.12,M,A,full-submission.txt
+2019-02-23,PFIZER INC,PFE,YOUNG JOHN D,Group President,13615.0,41.91,Sell,570604.6499999999,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,4646.0,42.96,Sell,199592.16,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,YOUNG JOHN D,Group President,43724.0,21.03,Buy,919515.7200000001,M,A,full-submission.txt
+2019-02-23,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,19290.0,21.03,Buy,405668.7,M,A,full-submission.txt
+2019-02-23,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,6007.0,41.91,Sell,251753.36999999997,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",9610.0,41.91,Sell,402755.1,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,Dolsten Mikael,President RD,54568.0,42.96,Sell,2344241.2800000003,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,41615.0,21.03,Buy,875163.4500000001,M,A,full-submission.txt
+2019-02-23,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,12925.0,42.96,Sell,555258.0,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,12958.0,41.91,Sell,543069.7799999999,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,READ IAN C,Executive Chairman,193170.0,42.96,Sell,8298583.2,F,D,full-submission.txt
+2019-02-23,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",30864.0,21.03,Buy,649069.92,M,A,full-submission.txt
+2019-02-23,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",7756.0,42.96,Sell,333197.76,F,D,full-submission.txt
+2019-02-25,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,1788.0,43.08,Sell,77027.04,F,D,full-submission.txt
+2019-02-25,PFIZER INC,PFE,Hwang Angela,Group President,1565.0,43.08,Sell,67420.2,F,D,full-submission.txt
+2019-02-25,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,1233.0,43.08,Sell,53117.64,F,D,full-submission.txt
+2019-02-25,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",1759.0,43.08,Sell,75777.72,F,D,full-submission.txt
+2019-02-25,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,2759.0,43.08,Sell,118857.72,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,Hwang Angela,Group President,6680.0,,Buy,,A,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,Hwang Angela,Group President,1532.0,42.93,Sell,65768.76,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,Hwang Angela,Group President,2270.0,42.93,Sell,97451.1,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,Hwang Angela,Group President,7283.0,42.31,Sell,308143.73000000004,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,30017.0,32.23,Buy,967447.9099999999,M,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,22176.0,,Buy,,A,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,5622.0,42.93,Sell,241352.46,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,10860.0,42.93,Sell,466219.8,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,12046.0,42.93,Sell,517134.77999999997,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,64322.0,32.23,Buy,2073098.0599999998,M,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,58778.0,,Buy,,A,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,28784.0,42.93,Sell,1235697.1199999999,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,39724.0,42.31,Sell,1680722.4400000002,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,48092.0,,Buy,,A,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,15258.0,42.93,Sell,655025.94,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,23551.0,42.93,Sell,1011044.43,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,50317.0,42.31,Sell,2128912.27,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,18538.0,42.31,Sell,784342.78,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,Lewis-Hall Freda C,Executive Vice President,81475.0,32.23,Buy,2625939.2499999995,M,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,30017.0,32.23,Buy,967447.9099999999,M,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,Hwang Angela,Group President,11792.0,32.23,Buy,380056.16,M,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,YOUNG JOHN D,Group President,95338.0,42.31,Sell,4033750.7800000003,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,YOUNG JOHN D,Group President,47101.0,42.93,Sell,2022045.93,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,YOUNG JOHN D,Group President,28910.0,42.93,Sell,1241106.3,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,YOUNG JOHN D,Group President,96183.0,,Buy,,A,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,YOUNG JOHN D,Group President,154374.0,32.23,Buy,4975474.02,M,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,52966.0,42.31,Sell,2240991.46,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,25595.0,42.93,Sell,1098793.35,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,17455.0,42.93,Sell,749343.15,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,20446.0,,Buy,,A,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,48092.0,,Buy,,A,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,READ IAN C,Executive Chairman,153644.0,42.93,Sell,6595936.92,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,READ IAN C,Executive Chairman,90352.0,42.93,Sell,3878811.36,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,READ IAN C,Executive Chairman,347327.0,,Buy,,A,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,11917.0,42.31,Sell,504208.27,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,3210.0,42.93,Sell,137805.3,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,4943.0,,Buy,,A,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,19297.0,32.23,Buy,621942.3099999999,M,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,10882.0,42.93,Sell,467164.26,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,85763.0,32.23,Buy,2764141.4899999998,M,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,18538.0,42.31,Sell,784342.78,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,BOURLA ALBERT,Chief Executive Officer,64322.0,32.23,Buy,2073098.0599999998,M,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,3556.0,42.93,Sell,152659.08,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,5989.0,42.93,Sell,257107.77,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,BOURLA ALBERT,Chief Executive Officer,96183.0,,Buy,,A,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,BOURLA ALBERT,Chief Executive Officer,39724.0,42.31,Sell,1680722.4400000002,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",25729.0,32.23,Buy,829245.6699999999,M,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",8017.0,,Buy,,A,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",3926.0,42.93,Sell,168543.18,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",4819.0,42.93,Sell,206879.67,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",15890.0,42.31,Sell,672305.9,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,182247.0,32.23,Buy,5873820.81,M,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,BOURLA ALBERT,Chief Executive Officer,12046.0,42.93,Sell,517134.77999999997,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,34131.0,42.93,Sell,1465243.83,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,47101.0,42.93,Sell,2022045.93,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,112552.0,42.31,Sell,4762075.12,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,Dolsten Mikael,President RD,96183.0,,Buy,,A,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,Dolsten Mikael,President RD,26672.0,42.93,Sell,1145028.96,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,Dolsten Mikael,President RD,47101.0,42.93,Sell,2022045.93,F,D,full-submission.txt
+2019-02-27,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,6680.0,,Buy,,A,A,full-submission.txt
+2019-02-27,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,96183.0,,Buy,,A,A,full-submission.txt
+2019-02-28,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",3482.0,,Buy,,A,A,full-submission.txt
+2019-02-28,PFIZER INC,PFE,Fonseca Lidia,Executive Vice President,47510.0,,Buy,,A,A,full-submission.txt
+2019-03-01,PFIZER INC,PFE,Dolsten Mikael,President RD,2300.0,43.59,Sell,100257.00000000001,S,D,full-submission.txt
+2019-03-01,PFIZER INC,PFE,Dolsten Mikael,President RD,5927.0,43.58,Sell,258298.66,S,D,full-submission.txt
+2019-03-01,PFIZER INC,PFE,Dolsten Mikael,President RD,14760.0,43.57,Sell,643093.2,S,D,full-submission.txt
+2019-03-01,PFIZER INC,PFE,Dolsten Mikael,President RD,77484.0,43.56,Sell,3375203.04,S,D,full-submission.txt
+2019-03-01,PFIZER INC,PFE,Dolsten Mikael,President RD,57609.0,30.59,Buy,1762259.31,M,A,full-submission.txt
+2019-03-01,PFIZER INC,PFE,Dolsten Mikael,President RD,48582.0,32.23,Buy,1565797.8599999999,M,A,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,1200.0,43.09,Sell,51708.00000000001,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,1200.0,43.13,Sell,51756.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,802.0,43.15,Sell,34606.299999999996,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,700.0,43.22,Sell,30254.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,1728.0,43.17,Sell,74597.76000000001,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,600.0,43.27,Sell,25962.000000000004,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,513.0,43.57,Sell,22351.41,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,425.0,43.25,Sell,18381.25,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,1975.0,43.32,Sell,85557.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,2075.0,43.56,Sell,90387.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,1997.0,43.41,Sell,86689.76999999999,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,1720.0,43.31,Sell,74493.2,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,1604.0,43.16,Sell,69228.64,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,4116.0,43.0,Sell,176988.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,2200.0,42.95,Sell,94490.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,400.0,43.2,Sell,17280.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,2299.0,43.08,Sell,99040.92,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,400.0,43.38,Sell,17352.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,300.0,43.1,Sell,12930.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,300.0,43.19,Sell,12957.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,200.0,43.23,Sell,8646.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,100.0,43.11,Sell,4311.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,6348.0,42.98,Sell,272837.04,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,4496.0,43.03,Sell,193462.88,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,4289.0,43.5,Sell,186571.5,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,3573.0,42.92,Sell,153353.16,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,3260.0,43.01,Sell,140212.6,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,2782.0,42.91,Sell,119375.62,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,2657.0,42.99,Sell,114224.43000000001,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,2442.0,42.97,Sell,104932.73999999999,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,2233.0,43.05,Sell,96130.65,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,2228.0,43.45,Sell,96806.6,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,2147.0,42.93,Sell,92170.71,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,2359.0,43.12,Sell,101720.07999999999,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,7584.0,43.36,Sell,328842.24,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,2516.0,43.21,Sell,108716.36,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,34216.0,43.04,Sell,1472656.64,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,28599.0,43.05,Sell,1231186.95,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,21624.0,43.5,Sell,940644.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,16537.0,43.49,Sell,719194.13,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,14739.0,43.06,Sell,634661.3400000001,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,13275.0,43.53,Sell,577860.75,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,52878.0,43.01,Sell,2274282.78,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,12971.0,43.48,Sell,563979.08,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,12623.0,43.47,Sell,548721.8099999999,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,12457.0,43.51,Sell,542004.07,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,11908.0,43.42,Sell,517045.36000000004,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,11804.0,43.07,Sell,508398.28,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,10725.0,43.52,Sell,466752.00000000006,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,8427.0,43.37,Sell,365478.99,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,12787.0,43.45,Sell,555595.15,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,2496.0,43.18,Sell,107777.28,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,69362.0,43.03,Sell,2984646.86,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,72212.0,43.0,Sell,3105116.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,2776.0,43.26,Sell,120089.76,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,2818.0,43.55,Sell,122723.9,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,3280.0,43.14,Sell,141499.2,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,3304.0,43.35,Sell,143228.4,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,3402.0,43.46,Sell,147850.92,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,3605.0,43.3,Sell,156096.5,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,69433.0,43.02,Sell,2987007.66,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,3694.0,43.39,Sell,160282.66,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,4258.0,43.4,Sell,184797.19999999998,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,4392.0,43.43,Sell,190744.56,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,4489.0,43.34,Sell,194553.26,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,5812.0,43.24,Sell,251310.88,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,6284.0,43.54,Sell,273605.36,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,2078.0,42.96,Sell,89270.88,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,3722.0,43.33,Sell,161274.25999999998,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,1933.0,43.42,Sell,83930.86,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,READ IAN C,Executive Chairman,6960.0,43.44,Sell,302342.39999999997,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,1641.0,43.49,Sell,71367.09,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,200.0,43.14,Sell,8628.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,200.0,43.16,Sell,8632.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,200.0,43.18,Sell,8636.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,200.0,43.33,Sell,8666.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,200.0,43.57,Sell,8714.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,120.0,43.55,Sell,5226.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,116.0,43.17,Sell,5007.72,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,100.0,43.22,Sell,4322.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,100.0,43.23,Sell,4323.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,100.0,43.25,Sell,4325.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,200.0,43.09,Sell,8618.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,100.0,43.31,Sell,4331.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,100.0,43.37,Sell,4337.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,100.0,43.56,Sell,4356.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,13802.0,42.98,Sell,593209.96,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,1200.0,42.99,Sell,51588.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,Dolsten Mikael,President RD,38645.0,43.52,Sell,1681830.4000000001,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,Dolsten Mikael,President RD,3250.0,43.53,Sell,141472.5,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,Dolsten Mikael,President RD,2600.0,43.54,Sell,113204.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,Dolsten Mikael,President RD,2400.0,43.55,Sell,104520.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,Dolsten Mikael,President RD,2187.0,43.56,Sell,95265.72,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,1800.0,43.06,Sell,77508.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,100.0,43.32,Sell,4332.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,200.0,43.08,Sell,8616.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,100.0,43.15,Sell,4315.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,300.0,43.4,Sell,13020.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,1471.0,43.35,Sell,63767.85,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,1401.0,43.51,Sell,60957.509999999995,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,291.0,43.21,Sell,12574.11,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,1386.0,43.48,Sell,60263.28,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,1324.0,43.53,Sell,57633.72,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,1186.0,43.54,Sell,51638.44,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,1100.0,43.44,Sell,47784.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,985.0,43.02,Sell,42374.700000000004,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,943.0,42.94,Sell,40492.42,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,927.0,43.47,Sell,40296.69,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,852.0,43.24,Sell,36840.48,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,800.0,42.89,Sell,34312.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,1400.0,43.36,Sell,60704.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,675.0,43.52,Sell,29376.000000000004,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,700.0,43.07,Sell,30149.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,400.0,42.9,Sell,17160.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,428.0,43.34,Sell,18549.52,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,500.0,43.43,Sell,21715.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,500.0,43.3,Sell,21650.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,400.0,43.41,Sell,17364.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,500.0,43.12,Sell,21560.0,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,521.0,43.39,Sell,22606.19,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,574.0,43.04,Sell,24704.96,S,D,full-submission.txt
+2019-03-04,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,500.0,43.26,Sell,21630.0,S,D,full-submission.txt
+2019-03-15,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,8700.0,41.13,Sell,357831.0,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,600.0,42.77,Sell,25662.000000000004,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,152.0,42.92,Sell,6523.84,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,200.0,42.59,Sell,8518.0,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,294.0,42.67,Sell,12544.980000000001,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,300.0,42.78,Sell,12834.0,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,547.0,42.86,Sell,23444.42,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,555.0,42.87,Sell,23792.85,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,560.0,42.89,Sell,24018.4,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,600.0,42.76,Sell,25656.0,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,1100.0,42.82,Sell,47102.0,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,658.0,42.83,Sell,28182.14,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,703.0,42.81,Sell,30095.43,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,713.0,42.84,Sell,30544.920000000002,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,800.0,42.79,Sell,34232.0,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,1134.0,42.85,Sell,48591.9,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,1230.0,42.8,Sell,52644.0,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,1581.0,42.9,Sell,67824.9,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,2215.0,42.88,Sell,94979.20000000001,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,623.0,42.91,Sell,26732.929999999997,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,128.0,42.6,Sell,5452.8,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,107.0,42.61,Sell,4559.2699999999995,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,100.0,42.74,Sell,4274.0,S,D,full-submission.txt
+2019-04-01,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,100.0,42.93,Sell,4293.0,S,D,full-submission.txt
+2019-04-29,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,4255.0,39.59,Sell,168455.45,F,D,full-submission.txt
+2019-05-13,"Cortexyme, Inc.",CRTX,PFIZER INC,,2360071.0,,Buy,,C,A,full-submission.txt
+2019-05-13,"Cortexyme, Inc.",CRTX,PFIZER INC,,215697.0,,Buy,,C,A,full-submission.txt
+2019-05-13,"Cortexyme, Inc.",CRTX,PFIZER INC,,624205.0,,Buy,,C,A,full-submission.txt
+2019-05-13,"Cortexyme, Inc.",CRTX,PFIZER INC,,50000.0,17.0,Buy,850000.0,P,A,full-submission.txt
+2019-05-29,PFIZER INC,PFE,Hwang Angela,Group President,240.0,,Sell,,G,D,full-submission.txt
+2019-06-20,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,30000.0,44.0,Sell,1320000.0,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,3425.0,44.14,Sell,151179.5,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,4864.0,44.08,Sell,214405.12,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,6180.0,44.16,Sell,272908.8,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,7272.0,44.04,Sell,320258.88,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,7450.0,44.17,Sell,329066.5,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,7588.0,44.01,Sell,333947.88,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,9362.0,44.06,Sell,412489.72000000003,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,8159.0,44.15,Sell,360219.85,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,3403.0,44.02,Sell,149800.06,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,10957.0,44.0,Sell,482108.0,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,13138.0,44.09,Sell,579254.42,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,13848.0,44.05,Sell,610004.3999999999,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,18036.0,44.11,Sell,795567.96,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,19167.0,44.1,Sell,845264.7000000001,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,7787.0,44.07,Sell,343173.09,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,3008.0,44.12,Sell,132712.96,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,4824.0,44.18,Sell,213124.32,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,1000.0,44.19,Sell,44190.0,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,929.0,44.13,Sell,40996.770000000004,S,D,full-submission.txt
+2019-07-02,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,2787.0,44.03,Sell,122711.61,S,D,full-submission.txt
+2019-08-23,PFIZER INC,PFE,Gottlieb Scott,,3000.0,34.72,Buy,104160.0,P,A,full-submission.txt
+2019-08-30,PFIZER INC,PFE,Hwang Angela,Group President,9896.0,35.55,Buy,351802.8,I,A,full-submission.txt
+2019-09-17,"SpringWorks Therapeutics, Inc.",SWTX,PFIZER INC,,978194.0,,Buy,,C,A,full-submission.txt
+2019-09-17,"SpringWorks Therapeutics, Inc.",SWTX,PFIZER INC,,526602.0,,Buy,,C,A,full-submission.txt
+2019-09-17,"SpringWorks Therapeutics, Inc.",SWTX,PFIZER INC,,50000.0,18.0,Buy,900000.0,P,A,full-submission.txt
+2019-09-17,"SpringWorks Therapeutics, Inc.",SWTX,PFIZER INC,,3039051.0,,Buy,,C,A,full-submission.txt
+2019-11-27,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",660.0,,Sell,,G,D,full-submission.txt
+2019-11-29,PFIZER INC,PFE,Hwang Angela,Group President,216.0,,Sell,,G,D,full-submission.txt
+2019-12-16,PFIZER INC,PFE,YOUNG JOHN D,Group President,1280.0,,Sell,,G,D,full-submission.txt
+2019-12-29,PFIZER INC,PFE,YOUNG JOHN D,Group President,9676.0,39.32,Sell,380460.32,F,D,full-submission.txt
+2020-01-30,PFIZER INC,PFE,Gottlieb Scott,,1000.0,36.9966,Buy,36996.6,P,A,full-submission.txt
+2020-01-31,PFIZER INC,PFE,Fonseca Lidia,Executive Vice President,6043.0,37.24,Sell,225041.32,F,D,full-submission.txt
+2020-02-23,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",1574.0,35.72,Sell,56223.28,F,D,full-submission.txt
+2020-02-23,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,2116.0,35.72,Sell,75583.52,F,D,full-submission.txt
+2020-02-23,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,1015.0,35.72,Sell,36255.799999999996,F,D,full-submission.txt
+2020-02-23,PFIZER INC,PFE,Hwang Angela,Group President,1409.0,35.72,Sell,50329.479999999996,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,15097.0,34.59,Buy,522205.23000000004,M,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,3569.0,34.72,Sell,123915.68,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,67605.0,36.8,Sell,2487864.0,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,1250.0,34.72,Sell,43400.0,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,15691.0,34.72,Sell,544791.52,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,7121.0,34.72,Sell,247241.12,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,34175.0,,Buy,,A,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,88567.0,34.59,Buy,3063532.5300000003,M,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,Hwang Angela,Group President,1166.0,34.72,Sell,40483.52,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,33414.0,34.59,Buy,1155790.26,M,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,10506.0,,Buy,,A,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,2682.0,34.72,Sell,93119.04,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,25506.0,36.8,Sell,938620.7999999999,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,11524.0,36.8,Sell,424083.19999999995,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,Hwang Angela,Group President,14493.0,34.59,Buy,501312.87000000005,M,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,22783.0,,Buy,,A,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,6556.0,34.72,Sell,227624.32,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,8104.0,34.72,Sell,281370.88,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,7984.0,34.72,Sell,277204.48,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,17087.0,,Buy,,A,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,21202.0,,Buy,,A,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,YOUNG JOHN D,Group President,110626.0,36.8,Sell,4071036.8,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,YOUNG JOHN D,Group President,22314.0,34.72,Sell,774742.08,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,YOUNG JOHN D,Group President,12485.0,34.72,Sell,433479.2,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,YOUNG JOHN D,Group President,45566.0,,Buy,,A,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,YOUNG JOHN D,Group President,144928.0,34.59,Buy,5013059.5200000005,M,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,55313.0,36.8,Sell,2035518.4,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,10384.0,34.72,Sell,360532.48,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,72464.0,34.59,Buy,2506529.7600000002,M,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,15365.0,36.8,Sell,565432.0,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,Hwang Angela,Group President,11063.0,36.8,Sell,407118.39999999997,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,1266.0,34.72,Sell,43955.52,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",24155.0,34.59,Buy,835521.4500000001,M,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",3797.0,,Buy,,A,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",1290.0,34.72,Sell,44788.799999999996,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",1943.0,34.72,Sell,67460.95999999999,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",18438.0,36.8,Sell,678518.3999999999,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,7121.0,34.72,Sell,247241.12,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,67605.0,36.8,Sell,2487864.0,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,Dolsten Mikael,President RD,45566.0,,Buy,,A,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,Dolsten Mikael,President RD,15478.0,34.72,Sell,537396.16,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,88567.0,34.59,Buy,3063532.5300000003,M,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,144928.0,34.59,Buy,5013059.5200000005,M,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,Dolsten Mikael,President RD,22314.0,34.72,Sell,774742.08,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,20129.0,34.59,Buy,696262.1100000001,M,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,110626.0,36.8,Sell,4071036.8,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,3164.0,,Buy,,A,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,12537.0,34.72,Sell,435284.64,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,45566.0,,Buy,,A,A,full-submission.txt
+2020-02-26,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,22314.0,34.72,Sell,774742.08,F,D,full-submission.txt
+2020-02-26,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,1906.0,34.72,Sell,66176.31999999999,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,9760.0,33.42,Sell,326179.2,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,11805.0,36.45,Sell,430292.25000000006,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,15996.0,27.37,Buy,437810.52,M,A,full-submission.txt
+2020-02-28,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,2627.0,33.42,Sell,87794.34000000001,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,8264.0,36.45,Sell,301222.80000000005,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,38848.0,27.37,Buy,1063269.76,M,A,full-submission.txt
+2020-02-28,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,9197.0,33.42,Sell,307363.74,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,20069.0,36.45,Sell,731515.05,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,37934.0,27.37,Buy,1038253.5800000001,M,A,full-submission.txt
+2020-02-28,PFIZER INC,PFE,YOUNG JOHN D,Group President,23802.0,33.42,Sell,795462.8400000001,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,17824.0,27.37,Buy,487842.88,M,A,full-submission.txt
+2020-02-28,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,3014.0,33.42,Sell,100727.88,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,9208.0,36.45,Sell,335631.60000000003,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,91408.0,27.37,Buy,2501836.96,M,A,full-submission.txt
+2020-02-28,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,23517.0,33.42,Sell,785938.14,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,47221.0,36.45,Sell,1721205.4500000002,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,YOUNG JOHN D,Group President,100548.0,27.37,Buy,2751998.7600000002,M,A,full-submission.txt
+2020-02-28,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,4419.0,33.42,Sell,147682.98,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,YOUNG JOHN D,Group President,51943.0,36.45,Sell,1893322.35,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,19597.0,36.45,Sell,714310.65,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,GOETTLER MICHAEL,Group President,22852.0,27.37,Buy,625459.24,M,A,full-submission.txt
+2020-02-28,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,173675.0,27.37,Buy,4753484.75,M,A,full-submission.txt
+2020-02-28,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,89721.0,36.45,Sell,3270330.45,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,41113.0,33.42,Sell,1373996.46,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",14166.0,36.45,Sell,516350.7,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",4503.0,33.42,Sell,150490.26,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,CANGIALOSI LORETTA V,"Sr. Vice President, Controller",27422.0,27.37,Buy,750540.14,M,A,full-submission.txt
+2020-02-28,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,17118.0,36.45,Sell,623951.1000000001,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,6701.0,33.42,Sell,223947.42,F,D,full-submission.txt
+2020-02-28,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,33135.0,27.37,Buy,906904.9500000001,M,A,full-submission.txt
+2020-02-28,PFIZER INC,PFE,Dolsten Mikael,President RD,39446.0,33.42,Sell,1318285.32,F,D,full-submission.txt
+2020-03-16,IMARA Inc.,IMRA,PFIZER INC,,76003.0,,Buy,,C,A,full-submission.txt
+2020-03-16,IMARA Inc.,IMRA,PFIZER INC,,868467.0,,Buy,,C,A,full-submission.txt
+2020-03-16,IMARA Inc.,IMRA,PFIZER INC,,312500.0,16.0,Buy,5000000.0,P,A,full-submission.txt
+2020-03-16,IMARA Inc.,IMRA,PFIZER INC,,300752.0,,Buy,,C,A,full-submission.txt
+2020-04-29,PFIZER INC,PFE,YOUNG JOHN D,Group President,7910.0,,Sell,,G,D,full-submission.txt
+2020-04-29,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,2181.0,38.35,Sell,83641.35,S,D,full-submission.txt
+2020-04-29,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,13125.0,38.36,Sell,503475.0,S,D,full-submission.txt
+2020-04-29,PFIZER INC,PFE,ROGERS DAWN,Executive Vice President,13000.0,38.13,Sell,495690.00000000006,S,D,full-submission.txt
+2020-04-29,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,57099.0,37.83,Sell,2160055.17,S,D,full-submission.txt
+2020-04-29,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,7901.0,38.01,Sell,300317.01,S,D,full-submission.txt
+2020-05-18,PFIZER INC,PFE,Dolsten Mikael,President RD,16840.0,37.8,Sell,636552.0,S,D,full-submission.txt
+2020-05-18,PFIZER INC,PFE,Dolsten Mikael,President RD,14727.0,37.77,Sell,556238.79,S,D,full-submission.txt
+2020-05-18,PFIZER INC,PFE,Dolsten Mikael,President RD,9700.0,37.75,Sell,366175.0,S,D,full-submission.txt
+2020-05-18,PFIZER INC,PFE,Dolsten Mikael,President RD,6470.0,37.81,Sell,244630.7,S,D,full-submission.txt
+2020-05-18,PFIZER INC,PFE,Dolsten Mikael,President RD,5517.0,37.76,Sell,208321.91999999998,S,D,full-submission.txt
+2020-05-18,PFIZER INC,PFE,Dolsten Mikael,President RD,500.0,37.82,Sell,18910.0,S,D,full-submission.txt
+2020-05-18,PFIZER INC,PFE,Dolsten Mikael,President RD,24242.0,37.79,Sell,916105.1799999999,S,D,full-submission.txt
+2020-05-18,PFIZER INC,PFE,Dolsten Mikael,President RD,17357.0,37.78,Sell,655747.46,S,D,full-submission.txt
+2020-06-03,"Cortexyme, Inc.",CRTX,PFIZER INC,,370000.0,40.18,Sell,14866600.0,S,D,full-submission.txt
+2020-06-05,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,2181.0,36.13,Sell,78799.53,S,D,full-submission.txt
+2020-08-06,PFIZER INC,PFE,BLAYLOCK RONALD E,,1000.0,38.62,Buy,38620.0,P,A,full-submission.txt
+2020-08-06,PFIZER INC,PFE,BLAYLOCK RONALD E,,3000.0,38.55,Buy,115649.99999999999,P,A,full-submission.txt
+2020-08-06,PFIZER INC,PFE,BLAYLOCK RONALD E,,2500.0,38.56,Buy,96400.0,P,A,full-submission.txt
+2020-08-06,PFIZER INC,PFE,BLAYLOCK RONALD E,,1500.0,38.51,Buy,57765.0,P,A,full-submission.txt
+2020-08-06,PFIZER INC,PFE,BLAYLOCK RONALD E,,1000.0,38.69,Buy,38690.0,P,A,full-submission.txt
+2020-08-06,PFIZER INC,PFE,BLAYLOCK RONALD E,,4000.0,38.49,Buy,153960.0,P,A,full-submission.txt
+2020-10-27,"Cerevel Therapeutics Holdings, Inc.",CERF,PFIZER INC,,1200000.0,10.0,Buy,12000000.0,P,A,full-submission.txt
+2020-11-09,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,132508.0,41.94,Sell,5557385.52,S,D,full-submission.txt
+2020-11-09,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,43662.0,41.94,Sell,1831184.2799999998,S,D,full-submission.txt
+2020-11-13,Viatris Inc,VTRS,PFIZER INC,,689873947.0,,Buy,,J,A,full-submission.txt
+2020-11-16,Viatris Inc,VTRS,PFIZER INC,,689874047.0,,Sell,,J,D,full-submission.txt
+2020-12-16,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,661.0,,Sell,,G,D,full-submission.txt
+2020-12-16,PFIZER INC,PFE,Hwang Angela,Group President,12970.0,37.84,Buy,490784.80000000005,I,A,full-submission.txt
+2020-12-18,"BioAtla, Inc.",BCAB,PFIZER INC,,2238090.0,,Buy,,C,A,full-submission.txt
+2020-12-29,PFIZER INC,PFE,YOUNG JOHN D,Group President,10607.0,37.05,Sell,392989.35,F,D,full-submission.txt
+2021-01-31,PFIZER INC,PFE,Fonseca Lidia,Executive Vice President,6749.0,35.9,Sell,242289.09999999998,F,D,full-submission.txt
+2021-02-22,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,1172.0,34.26,Sell,40152.72,F,D,full-submission.txt
+2021-02-22,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,884.0,34.26,Sell,30285.839999999997,F,D,full-submission.txt
+2021-02-22,PFIZER INC,PFE,Carapezzi William R JR,Executive Vice President,1410.0,34.26,Sell,48306.6,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,YOUNG JOHN D,Group President,28221.0,33.82,Sell,954434.22,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,6422.0,33.82,Sell,217192.04,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,24371.0,34.76,Sell,847135.96,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,99816.0,22.89,Buy,2284788.24,M,A,full-submission.txt
+2021-02-25,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,17246.0,33.82,Sell,583259.72,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,64599.0,34.76,Sell,2245461.2399999998,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,26732.0,,Buy,,A,A,full-submission.txt
+2021-02-25,PFIZER INC,PFE,YOUNG JOHN D,Group President,163334.0,22.89,Buy,3738715.2600000002,M,A,full-submission.txt
+2021-02-25,PFIZER INC,PFE,YOUNG JOHN D,Group President,105707.0,34.76,Sell,3674375.32,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,1197.0,33.82,Sell,40482.54,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,6460.0,34.76,Sell,224549.59999999998,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,81667.0,22.89,Buy,1869357.6300000001,M,A,full-submission.txt
+2021-02-25,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,15335.0,33.82,Sell,518629.7,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,52853.0,34.76,Sell,1837170.2799999998,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,37658.0,22.89,Buy,861991.62,M,A,full-submission.txt
+2021-02-25,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,9982.0,22.89,Buy,228487.98,M,A,full-submission.txt
+2021-02-25,PFIZER INC,PFE,Dolsten Mikael,President RD,28271.0,33.82,Sell,956125.22,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,14227.0,33.82,Sell,481157.14,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,Hwang Angela,Group President,3920.0,33.82,Sell,132574.4,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,12477.0,22.89,Buy,285598.53,M,A,full-submission.txt
+2021-02-25,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,3649.0,,Buy,,A,A,full-submission.txt
+2021-02-25,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,1496.0,33.82,Sell,50594.72,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,8075.0,34.76,Sell,280687.0,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,Hwang Angela,Group President,14682.0,34.76,Sell,510346.31999999995,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,28221.0,33.82,Sell,954434.22,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,105707.0,34.76,Sell,3674375.32,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,163334.0,22.86,Buy,3733815.2399999998,M,A,full-submission.txt
+2021-02-25,PFIZER INC,PFE,Carapezzi William R JR,Executive Vice President,2983.0,33.82,Sell,100885.06,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,Carapezzi William R JR,Executive Vice President,17618.0,34.76,Sell,612401.6799999999,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,163334.0,22.89,Buy,3738715.2600000002,M,A,full-submission.txt
+2021-02-25,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,28221.0,33.82,Sell,954434.22,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,105707.0,34.76,Sell,3674375.32,F,D,full-submission.txt
+2021-02-25,PFIZER INC,PFE,Hwang Angela,Group President,22686.0,22.89,Buy,519282.54000000004,M,A,full-submission.txt
+2021-02-25,PFIZER INC,PFE,Carapezzi William R JR,Executive Vice President,27222.0,22.89,Buy,623111.58,M,A,full-submission.txt
+2021-02-27,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,25165.0,22.35,Buy,562437.75,M,A,full-submission.txt
+2021-02-27,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,4510.0,33.49,Sell,151039.90000000002,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,15955.0,34.64,Sell,552681.2,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,53925.0,22.35,Buy,1205223.75,M,A,full-submission.txt
+2021-02-27,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,9664.0,33.49,Sell,323647.36000000004,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,34191.0,34.64,Sell,1184376.24,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,YOUNG JOHN D,Group President,129419.0,22.35,Buy,2892514.6500000004,M,A,full-submission.txt
+2021-02-27,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,5812.0,33.49,Sell,194643.88,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,18919.0,34.64,Sell,655354.16,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,71899.0,22.35,Buy,1606942.6500000001,M,A,full-submission.txt
+2021-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,14004.0,33.49,Sell,468993.96,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,45587.0,34.64,Sell,1579133.68,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,Hwang Angela,Group President,6268.0,34.64,Sell,217123.52,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,29838.0,22.35,Buy,666879.3,M,A,full-submission.txt
+2021-02-27,PFIZER INC,PFE,Hwang Angela,Group President,1772.0,33.49,Sell,59344.280000000006,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,Carapezzi William R JR,Executive Vice President,13676.0,34.64,Sell,473736.64,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,6268.0,34.64,Sell,217123.52,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,1229.0,33.49,Sell,41159.21,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,9886.0,22.35,Buy,220952.1,M,A,full-submission.txt
+2021-02-27,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,96872.0,34.64,Sell,3355646.08,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,27381.0,33.49,Sell,916989.6900000001,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,152785.0,22.35,Buy,3414744.75,M,A,full-submission.txt
+2021-02-27,PFIZER INC,PFE,Carapezzi William R JR,Executive Vice President,2985.0,33.49,Sell,99967.65000000001,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,Carapezzi William R JR,Executive Vice President,21570.0,22.35,Buy,482089.50000000006,M,A,full-submission.txt
+2021-02-27,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,34191.0,34.64,Sell,1184376.24,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,9664.0,33.49,Sell,323647.36000000004,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,53925.0,22.35,Buy,1205223.75,M,A,full-submission.txt
+2021-02-27,PFIZER INC,PFE,Dolsten Mikael,President RD,23841.0,33.49,Sell,798435.0900000001,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,YOUNG JOHN D,Group President,23194.0,33.49,Sell,776767.06,F,D,full-submission.txt
+2021-02-27,PFIZER INC,PFE,Hwang Angela,Group President,9886.0,22.35,Buy,220952.1,M,A,full-submission.txt
+2021-02-27,PFIZER INC,PFE,YOUNG JOHN D,Group President,82057.0,34.64,Sell,2842454.48,F,D,full-submission.txt
+2021-05-05,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,2500.0,40.82,Sell,102050.0,S,D,full-submission.txt
+2021-05-07,PFIZER INC,PFE,YOUNG JOHN D,Group President,8830.0,,Sell,,G,D,full-submission.txt
+2021-06-16,PFIZER INC,PFE,BLAYLOCK RONALD E,,4750.0,,Sell,,G,D,full-submission.txt
+2021-06-16,PFIZER INC,PFE,BLAYLOCK RONALD E,,4750.0,,Buy,,G,A,full-submission.txt
+2021-07-30,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,2500.0,42.86,Sell,107150.0,S,D,full-submission.txt
+2021-08-13,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,1.0,48.29,Sell,48.29,S,D,full-submission.txt
+2021-08-13,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,1660.0,48.3,Sell,80178.0,S,D,full-submission.txt
+2021-08-31,PFIZER INC,PFE,MALIK AAMIR,Executive Vice President,43412.0,,Buy,,A,A,full-submission.txt
+2021-11-11,PFIZER INC,PFE,YOUNG JOHN D,Group President,47782.0,50.01,Sell,2389577.82,S,D,full-submission.txt
+2021-11-11,PFIZER INC,PFE,Dolsten Mikael,President RD,64841.0,27.34,Buy,1772752.94,M,A,full-submission.txt
+2021-11-11,PFIZER INC,PFE,Dolsten Mikael,President RD,76135.0,22.89,Buy,1742730.1500000001,M,A,full-submission.txt
+2021-11-11,PFIZER INC,PFE,Dolsten Mikael,President RD,2301.0,50.32,Sell,115786.32,S,D,full-submission.txt
+2021-11-11,PFIZER INC,PFE,Dolsten Mikael,President RD,3197.0,50.29,Sell,160777.13,S,D,full-submission.txt
+2021-11-11,PFIZER INC,PFE,Dolsten Mikael,President RD,3396.0,50.31,Sell,170852.76,S,D,full-submission.txt
+2021-11-11,PFIZER INC,PFE,Dolsten Mikael,President RD,5227.0,50.29,Sell,262865.83,S,D,full-submission.txt
+2021-11-11,PFIZER INC,PFE,Dolsten Mikael,President RD,6708.0,50.33,Sell,337613.64,S,D,full-submission.txt
+2021-11-11,PFIZER INC,PFE,YOUNG JOHN D,Group President,30200.0,50.02,Sell,1510604.0,S,D,full-submission.txt
+2021-11-11,PFIZER INC,PFE,YOUNG JOHN D,Group President,15500.0,50.12,Sell,776860.0,S,D,full-submission.txt
+2021-11-11,PFIZER INC,PFE,YOUNG JOHN D,Group President,9500.0,50.15,Sell,476425.0,S,D,full-submission.txt
+2021-11-11,PFIZER INC,PFE,YOUNG JOHN D,Group President,9818.0,50.07,Sell,491587.26,S,D,full-submission.txt
+2021-11-11,PFIZER INC,PFE,Dolsten Mikael,President RD,58572.0,25.6,Buy,1499443.2000000002,M,A,full-submission.txt
+2021-11-11,PFIZER INC,PFE,YOUNG JOHN D,Group President,9100.0,50.14,Sell,456274.0,S,D,full-submission.txt
+2021-11-11,PFIZER INC,PFE,YOUNG JOHN D,Group President,6200.0,50.06,Sell,310372.0,S,D,full-submission.txt
+2021-11-11,PFIZER INC,PFE,YOUNG JOHN D,Group President,4200.0,50.03,Sell,210126.0,S,D,full-submission.txt
+2021-11-11,PFIZER INC,PFE,YOUNG JOHN D,Group President,3200.0,50.09,Sell,160288.0,S,D,full-submission.txt
+2021-11-11,PFIZER INC,PFE,YOUNG JOHN D,Group President,2800.0,50.16,Sell,140448.0,S,D,full-submission.txt
+2021-11-11,PFIZER INC,PFE,Dolsten Mikael,President RD,36711.0,50.28,Sell,1845829.08,S,D,full-submission.txt
+2021-11-11,PFIZER INC,PFE,YOUNG JOHN D,Group President,11700.0,50.1,Sell,586170.0,S,D,full-submission.txt
+2021-11-11,PFIZER INC,PFE,Dolsten Mikael,President RD,2124.0,50.34,Sell,106922.16,S,D,full-submission.txt
+2021-11-12,PFIZER INC,PFE,Hwang Angela,Group President,11312.0,49.6,Sell,561075.2000000001,S,D,full-submission.txt
+2021-11-12,PFIZER INC,PFE,Hwang Angela,Group President,10646.0,49.59,Sell,527935.14,S,D,full-submission.txt
+2021-11-12,PFIZER INC,PFE,Hwang Angela,Group President,3412.0,49.62,Sell,169303.44,S,D,full-submission.txt
+2021-11-12,PFIZER INC,PFE,Hwang Angela,Group President,800.0,49.61,Sell,39688.0,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,1677.0,54.46,Sell,91329.42,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,124.0,54.32,Sell,6735.68,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,1133.0,54.26,Sell,61476.579999999994,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,1497.0,54.47,Sell,81541.59,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,909.0,54.45,Sell,49495.05,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,2736.0,54.39,Sell,148811.04,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,6400.0,54.3,Sell,347520.0,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,4500.0,54.55,Sell,245475.0,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,5203.0,54.17,Sell,281846.51,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,5765.0,54.4,Sell,313616.0,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,20520.0,54.44,Sell,1117108.8,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,5856.0,54.31,Sell,318039.36,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,4200.0,54.5,Sell,228900.0,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,12370.0,54.64,Sell,675896.8,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,3700.0,54.55,Sell,201835.0,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,2279.0,54.45,Sell,124091.55,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,58.0,54.43,Sell,3156.94,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,101.0,54.48,Sell,5502.48,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,399.0,54.53,Sell,21757.47,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,400.0,54.51,Sell,21804.0,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,250.0,54.57,Sell,13642.5,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,700.0,54.49,Sell,38143.0,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,800.0,54.47,Sell,43576.0,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,901.0,54.56,Sell,49158.560000000005,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,1130.0,54.65,Sell,61754.5,S,D,full-submission.txt
+2021-11-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,700.0,54.5,Sell,38150.0,S,D,full-submission.txt
+2021-12-02,PFIZER INC,PFE,MACKENZIE ALEXANDER R,Executive Vice President,41360.0,54.26,Sell,2244193.6,S,D,full-submission.txt
+2021-12-03,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,2200.0,53.46,Sell,117612.0,S,D,full-submission.txt
+2021-12-03,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,4727.0,53.39,Sell,252374.53,S,D,full-submission.txt
+2021-12-03,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,3627.0,53.38,Sell,193609.26,S,D,full-submission.txt
+2021-12-03,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,2719.0,53.5,Sell,145466.5,S,D,full-submission.txt
+2021-12-03,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,1200.0,53.49,Sell,64188.0,S,D,full-submission.txt
+2021-12-03,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,2756.0,53.4,Sell,147170.4,S,D,full-submission.txt
+2021-12-03,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,400.0,53.41,Sell,21364.0,S,D,full-submission.txt
+2021-12-03,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,371.0,53.37,Sell,19800.27,S,D,full-submission.txt
+2021-12-03,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,300.0,53.51,Sell,16053.0,S,D,full-submission.txt
+2021-12-03,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,200.0,53.47,Sell,10694.0,S,D,full-submission.txt
+2021-12-03,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,500.0,53.42,Sell,26710.0,S,D,full-submission.txt
+2021-12-17,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,80080.0,27.34,Buy,2189387.2,M,A,full-submission.txt
+2021-12-17,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,42975.0,25.6,Buy,1100160.0,M,A,full-submission.txt
+2021-12-17,PFIZER INC,PFE,Dolsten Mikael,President RD,71187.0,30.17,Buy,2147711.79,M,A,full-submission.txt
+2022-01-31,PFIZER INC,PFE,Fonseca Lidia,Executive Vice President,6680.0,52.69,Sell,351969.2,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,17550.0,51.28,Sell,899964.0,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,115342.0,27.34,Buy,3153450.28,M,A,full-submission.txt
+2022-02-23,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,27771.0,46.87,Sell,1301626.77,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,57090.0,51.28,Sell,2927575.2,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,McDermott Michael,Executive Vice President,14952.0,27.34,Buy,408787.68,M,A,full-submission.txt
+2022-02-23,PFIZER INC,PFE,McDermott Michael,Executive Vice President,2927.0,46.87,Sell,137188.49,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,McDermott Michael,Executive Vice President,7401.0,51.28,Sell,379523.28,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,76895.0,27.34,Buy,2102309.3,M,A,full-submission.txt
+2022-02-23,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,2717.0,46.87,Sell,127345.79,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,6872.0,51.28,Sell,352396.16000000003,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,19110.0,46.87,Sell,895685.7,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,Dolsten Mikael,President RD,29767.0,46.87,Sell,1395179.29,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,38060.0,51.28,Sell,1951716.8,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,6871.0,46.87,Sell,322043.76999999996,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,13884.0,27.34,Buy,379588.56,M,A,full-submission.txt
+2022-02-23,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,35457.0,27.34,Buy,969394.38,M,A,full-submission.txt
+2022-02-23,PFIZER INC,PFE,Carapezzi William R JR,Executive Vice President,4057.0,46.87,Sell,190151.59,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,Hwang Angela,Group President,4110.0,46.87,Sell,192635.69999999998,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,Hwang Angela,Group President,10572.0,51.28,Sell,542132.16,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,Carapezzi William R JR,Executive Vice President,25632.0,27.34,Buy,700778.88,M,A,full-submission.txt
+2022-02-23,PFIZER INC,PFE,Carapezzi William R JR,Executive Vice President,12687.0,51.28,Sell,650589.36,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,11748.0,27.34,Buy,321190.32,M,A,full-submission.txt
+2022-02-23,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,2339.0,46.87,Sell,109628.93,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,37509.0,46.87,Sell,1758046.8299999998,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,153789.0,27.34,Buy,4204591.26,M,A,full-submission.txt
+2022-02-23,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,38099.0,46.87,Sell,1785700.13,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,76120.0,51.28,Sell,3903433.6,F,D,full-submission.txt
+2022-02-23,PFIZER INC,PFE,Hwang Angela,Group President,21359.0,27.34,Buy,583955.0599999999,M,A,full-submission.txt
+2022-02-23,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,5815.0,51.28,Sell,298193.2,F,D,full-submission.txt
+2022-02-24,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,2893.0,,Buy,,A,A,full-submission.txt
+2022-02-26,PFIZER INC,PFE,Carapezzi William R JR,Executive Vice President,21193.0,25.6,Buy,542540.8,M,A,full-submission.txt
+2022-02-26,PFIZER INC,PFE,McDermott Michael,Executive Vice President,5761.0,50.64,Sell,291737.04,F,D,full-submission.txt
+2022-02-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,77709.0,25.6,Buy,1989350.4000000001,M,A,full-submission.txt
+2022-02-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,21149.0,47.72,Sell,1009230.28,F,D,full-submission.txt
+2022-02-26,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,36282.0,50.64,Sell,1837320.48,F,D,full-submission.txt
+2022-02-26,PFIZER INC,PFE,Carapezzi William R JR,Executive Vice President,9895.0,50.64,Sell,501082.8,F,D,full-submission.txt
+2022-02-26,PFIZER INC,PFE,McDermott Michael,Executive Vice President,2372.0,47.72,Sell,113191.84,F,D,full-submission.txt
+2022-02-26,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,34607.0,47.72,Sell,1651446.04,F,D,full-submission.txt
+2022-02-26,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,59370.0,50.64,Sell,3006496.8,F,D,full-submission.txt
+2022-02-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,63580.0,25.6,Buy,1627648.0,M,A,full-submission.txt
+2022-02-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,29685.0,50.64,Sell,1503248.4,F,D,full-submission.txt
+2022-02-26,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,18745.0,47.72,Sell,894511.4,F,D,full-submission.txt
+2022-02-26,PFIZER INC,PFE,DAMELIO FRANK A,Executive Vice President,127160.0,25.6,Buy,3255296.0,M,A,full-submission.txt
+2022-02-26,PFIZER INC,PFE,McDermott Michael,Executive Vice President,12340.0,25.6,Buy,315904.0,M,A,full-submission.txt
+2022-02-26,PFIZER INC,PFE,Carapezzi William R JR,Executive Vice President,4619.0,47.72,Sell,220418.68,F,D,full-submission.txt
+2022-02-26,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,7511.0,47.72,Sell,358424.92,F,D,full-submission.txt
+2022-02-26,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,29317.0,25.6,Buy,750515.2000000001,M,A,full-submission.txt
+2022-02-26,PFIZER INC,PFE,Hwang Angela,Group President,5937.0,50.64,Sell,300649.68,F,D,full-submission.txt
+2022-02-26,PFIZER INC,PFE,Hwang Angela,Group President,3461.0,47.72,Sell,165158.91999999998,F,D,full-submission.txt
+2022-02-26,PFIZER INC,PFE,Hwang Angela,Group President,12716.0,25.6,Buy,325529.60000000003,M,A,full-submission.txt
+2022-02-26,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,4535.0,50.64,Sell,229652.4,F,D,full-submission.txt
+2022-02-26,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,1867.0,47.72,Sell,89093.23999999999,F,D,full-submission.txt
+2022-02-26,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,9713.0,25.6,Buy,248652.80000000002,M,A,full-submission.txt
+2022-02-26,PFIZER INC,PFE,Dolsten Mikael,President RD,29744.0,47.72,Sell,1419383.68,F,D,full-submission.txt
+2022-02-26,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,21824.0,47.72,Sell,1041441.28,F,D,full-submission.txt
+2022-02-26,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,13688.0,50.64,Sell,693160.3200000001,F,D,full-submission.txt
+2022-02-28,PFIZER INC,PFE,McDermott Michael,Executive Vice President,1384.0,46.94,Sell,64964.96,F,D,full-submission.txt
+2022-02-28,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,740.0,46.94,Sell,34735.6,F,D,full-submission.txt
+2022-02-28,PFIZER INC,PFE,Carapezzi William R JR,Executive Vice President,1795.0,46.94,Sell,84257.3,F,D,full-submission.txt
+2022-02-28,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,1049.0,46.94,Sell,49240.06,F,D,full-submission.txt
+2022-03-03,PFIZER INC,PFE,Dolsten Mikael,President RD,40438.0,38.71,Buy,1565354.98,M,A,full-submission.txt
+2022-03-03,PFIZER INC,PFE,Dolsten Mikael,President RD,62022.0,27.34,Buy,1695681.48,M,A,full-submission.txt
+2022-03-31,PFIZER INC,PFE,Pao William,Executive Vice President,115897.0,,Buy,,A,A,full-submission.txt
+2022-05-11,PFIZER INC,PFE,Dolsten Mikael,President RD,18562.0,49.32,Sell,915477.84,S,D,full-submission.txt
+2022-05-11,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,5000.0,,Sell,,G,D,full-submission.txt
+2022-05-11,PFIZER INC,PFE,Dolsten Mikael,President RD,200.0,49.36,Sell,9872.0,S,D,full-submission.txt
+2022-05-11,PFIZER INC,PFE,Dolsten Mikael,President RD,2358.0,49.34,Sell,116343.72,S,D,full-submission.txt
+2022-05-11,PFIZER INC,PFE,Dolsten Mikael,President RD,2891.0,49.35,Sell,142670.85,S,D,full-submission.txt
+2022-05-11,PFIZER INC,PFE,Dolsten Mikael,President RD,7876.0,49.33,Sell,388523.07999999996,S,D,full-submission.txt
+2022-05-11,PFIZER INC,PFE,Dolsten Mikael,President RD,32015.0,49.31,Sell,1578659.6500000001,S,D,full-submission.txt
+2022-05-12,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,38273.0,49.41,Sell,1891068.93,S,D,full-submission.txt
+2022-05-12,PFIZER INC,PFE,Carapezzi William R JR,Executive Vice President,32908.0,50.0,Sell,1645400.0,S,D,full-submission.txt
+2022-05-13,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,1408.0,49.84,Sell,70174.72,S,D,full-submission.txt
+2022-05-16,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,4000.0,50.5,Sell,202000.0,S,D,full-submission.txt
+2022-05-31,PFIZER INC,PFE,Denton David M,Chief Financial Officer EVP,61275.0,,Buy,,A,A,full-submission.txt
+2022-06-07,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,4218.0,53.96,Sell,227603.28,S,D,full-submission.txt
+2022-11-07,PFIZER INC,PFE,Dolsten Mikael,President RD,50938.0,30.17,Buy,1536799.4600000002,M,A,full-submission.txt
+2022-11-07,PFIZER INC,PFE,Dolsten Mikael,President RD,28170.0,38.71,Buy,1090460.7,M,A,full-submission.txt
+2022-12-14,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,54186.0,22.89,Buy,1240317.54,M,A,full-submission.txt
+2022-12-14,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,47472.0,30.17,Buy,1432230.24,M,A,full-submission.txt
+2022-12-16,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,89156.0,22.89,Buy,2040780.84,M,A,full-submission.txt
+2022-12-16,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,133172.0,30.17,Buy,4017799.24,M,A,full-submission.txt
+2023-02-22,PFIZER INC,PFE,Hwang Angela,"President, Global Biopharmaceu",8041.0,42.38,Sell,340777.58,F,D,full-submission.txt
+2023-02-22,PFIZER INC,PFE,Hwang Angela,"President, Global Biopharmaceu",57032.0,30.17,Buy,1720655.4400000002,M,A,full-submission.txt
+2023-02-22,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,46291.0,43.7,Sell,2022916.7000000002,F,D,full-submission.txt
+2023-02-22,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,13007.0,42.38,Sell,551236.66,F,D,full-submission.txt
+2023-02-22,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,76043.0,30.17,Buy,2294217.31,M,A,full-submission.txt
+2023-02-22,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,9259.0,43.7,Sell,404618.30000000005,F,D,full-submission.txt
+2023-02-22,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,2206.0,42.38,Sell,93490.28,F,D,full-submission.txt
+2023-02-22,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,15209.0,30.17,Buy,458855.53,M,A,full-submission.txt
+2023-02-22,PFIZER INC,PFE,McDermott Michael,Executive Vice President,8101.0,43.7,Sell,354013.7,F,D,full-submission.txt
+2023-02-22,PFIZER INC,PFE,McDermott Michael,Executive Vice President,1935.0,42.38,Sell,82005.3,F,D,full-submission.txt
+2023-02-22,PFIZER INC,PFE,McDermott Michael,Executive Vice President,13307.0,30.17,Buy,401472.19,M,A,full-submission.txt
+2023-02-22,PFIZER INC,PFE,Hwang Angela,"President, Global Biopharmaceu",34718.0,43.7,Sell,1517176.6,F,D,full-submission.txt
+2023-02-22,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,19211.0,43.7,Sell,839520.7000000001,F,D,full-submission.txt
+2023-02-22,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,4526.0,42.38,Sell,191811.88,F,D,full-submission.txt
+2023-02-22,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,31558.0,30.17,Buy,952104.8600000001,M,A,full-submission.txt
+2023-02-22,PFIZER INC,PFE,Dolsten Mikael,President RD,32592.0,42.38,Sell,1381248.9600000002,F,D,full-submission.txt
+2023-02-22,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,6365.0,43.7,Sell,278150.5,F,D,full-submission.txt
+2023-02-22,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,1579.0,42.38,Sell,66918.02,F,D,full-submission.txt
+2023-02-22,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,10456.0,30.17,Buy,315457.52,M,A,full-submission.txt
+2023-02-22,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,61994.0,42.38,Sell,2627305.72,F,D,full-submission.txt
+2023-02-22,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,19878.0,42.38,Sell,842429.64,F,D,full-submission.txt
+2023-02-23,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,3103.0,,Buy,,A,A,full-submission.txt
+2023-02-24,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,360.0,41.75,Sell,15030.0,F,D,full-submission.txt
+2023-02-25,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,11150.0,22.89,Buy,255223.5,M,A,full-submission.txt
+2023-02-25,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,2233.0,41.75,Sell,93227.75,F,D,full-submission.txt
+2023-02-25,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,4958.0,43.44,Sell,215375.52,F,D,full-submission.txt
+2023-02-25,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,1786.0,41.75,Sell,74565.5,F,D,full-submission.txt
+2023-02-25,PFIZER INC,PFE,McDermott Michael,Executive Vice President,2839.0,41.75,Sell,118528.25,F,D,full-submission.txt
+2023-02-25,PFIZER INC,PFE,McDermott Michael,Executive Vice President,6305.0,43.44,Sell,273889.2,F,D,full-submission.txt
+2023-02-25,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,8921.0,22.89,Buy,204201.69,M,A,full-submission.txt
+2023-02-25,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,32455.0,43.44,Sell,1409845.2,F,D,full-submission.txt
+2023-02-25,PFIZER INC,PFE,McDermott Michael,Executive Vice President,14178.0,22.89,Buy,324534.42,M,A,full-submission.txt
+2023-02-25,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,22413.0,41.75,Sell,935742.75,F,D,full-submission.txt
+2023-02-25,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,14966.0,43.44,Sell,650123.0399999999,F,D,full-submission.txt
+2023-02-25,PFIZER INC,PFE,Hwang Angela,"President, Global Biopharma",9015.0,43.44,Sell,391611.6,F,D,full-submission.txt
+2023-02-25,PFIZER INC,PFE,Hwang Angela,"President, Global Biopharma",5748.0,41.75,Sell,239979.0,F,D,full-submission.txt
+2023-02-25,PFIZER INC,PFE,Hwang Angela,"President, Global Biopharma",20273.0,22.89,Buy,464048.97000000003,M,A,full-submission.txt
+2023-02-25,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,7870.0,41.75,Sell,328572.5,F,D,full-submission.txt
+2023-02-25,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,33654.0,22.89,Buy,770340.06,M,A,full-submission.txt
+2023-02-25,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,26389.0,41.75,Sell,1101740.75,F,D,full-submission.txt
+2023-02-25,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,43419.0,41.75,Sell,1812743.25,F,D,full-submission.txt
+2023-02-25,PFIZER INC,PFE,Dolsten Mikael,President RD,37078.0,41.75,Sell,1548006.5,F,D,full-submission.txt
+2023-02-25,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,3967.0,43.44,Sell,172326.47999999998,F,D,full-submission.txt
+2023-02-25,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,72984.0,22.89,Buy,1670603.76,M,A,full-submission.txt
+2023-02-27,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,1427.0,40.78,Sell,58193.060000000005,F,D,full-submission.txt
+2023-02-27,PFIZER INC,PFE,McDermott Michael,Executive Vice President,3081.0,40.78,Sell,125643.18000000001,F,D,full-submission.txt
+2023-02-27,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,1297.0,40.78,Sell,52891.66,F,D,full-submission.txt
+2023-03-15,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,9912.0,40.02,Sell,396678.24000000005,S,D,full-submission.txt
+2023-03-17,"Pyxis Oncology, Inc.",PYXS,PFIZER INC,,1811594.0,2.76,Buy,4999999.4399999995,P,A,full-submission.txt
+2023-03-31,PFIZER INC,PFE,Pao William,Executive Vice President,22095.0,40.8,Sell,901475.9999999999,F,D,full-submission.txt
+2023-05-05,PFIZER INC,PFE,Gottlieb Scott,,1000.0,38.425,Buy,38425.0,P,A,full-submission.txt
+2023-05-08,PFIZER INC,PFE,Gottlieb Scott,,1000.0,38.58,Buy,38580.0,P,A,full-submission.txt
+2023-05-31,PFIZER INC,PFE,Denton David M,Chief Financial Officer EVP,16223.0,38.02,Sell,616798.4600000001,F,D,full-submission.txt
+2023-12-15,PFIZER INC,PFE,Gottlieb Scott,,3000.0,26.467,Buy,79401.0,P,A,full-submission.txt
+2023-12-29,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,Executive Vice President,34734.0,,Buy,,A,A,full-submission.txt
+2024-02-23,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,7881.0,27.37,Sell,215702.97,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,51589.0,27.37,Sell,1411990.9300000002,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,Dolsten Mikael,President RD,24822.0,27.76,Sell,689058.7200000001,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,29436.0,27.34,Buy,804780.24,M,A,full-submission.txt
+2024-02-23,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,2132.0,27.76,Sell,59184.32,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,JOHNSON RADY A,Executive Vice President,23788.0,27.37,Sell,651077.56,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,11527.0,27.34,Buy,315148.18,M,A,full-submission.txt
+2024-02-23,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,6618.0,27.76,Sell,183715.68000000002,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,77384.0,27.37,Sell,2118000.08,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,McDermott Michael,Executive Vice President,12412.0,27.34,Buy,339344.08,M,A,full-submission.txt
+2024-02-23,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,905.0,27.76,Sell,25122.800000000003,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,9314.0,27.37,Sell,254924.18000000002,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,95755.0,27.34,Buy,2617941.7,M,A,full-submission.txt
+2024-02-23,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,774.0,27.76,Sell,21486.24,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,103178.0,27.37,Sell,2823981.8600000003,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,9752.0,27.34,Buy,266619.68,M,A,full-submission.txt
+2024-02-23,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,63837.0,27.34,Buy,1745303.58,M,A,full-submission.txt
+2024-02-23,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,8831.0,27.76,Sell,245148.56000000003,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,127674.0,27.34,Buy,3490607.16,M,A,full-submission.txt
+2024-02-23,PFIZER INC,PFE,McDermott Michael,Executive Vice President,859.0,27.76,Sell,23845.84,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,McDermott Michael,Executive Vice President,10031.0,27.37,Sell,274548.47000000003,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,Executive Vice President,7881.0,27.37,Sell,215702.97,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,Executive Vice President,675.0,27.76,Sell,18738.0,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,Executive Vice President,458.0,27.76,Sell,12714.08,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,Executive Vice President,9752.0,27.34,Buy,266619.68,M,A,full-submission.txt
+2024-02-23,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,451.0,27.76,Sell,12519.76,F,D,full-submission.txt
+2024-02-23,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,4948.0,27.76,Sell,137356.48,F,D,full-submission.txt
+2024-02-24,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,354.0,27.76,Sell,9827.04,F,D,full-submission.txt
+2024-02-24,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,Executive Vice President,300.0,27.76,Sell,8328.0,F,D,full-submission.txt
+2024-02-25,PFIZER INC,PFE,McDermott Michael,Executive Vice President,2992.0,27.76,Sell,83057.92,F,D,full-submission.txt
+2024-02-25,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,1386.0,27.76,Sell,38475.36,F,D,full-submission.txt
+2024-02-25,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,Executive Vice President,4794.0,27.76,Sell,133081.44,F,D,full-submission.txt
+2024-02-25,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,Executive Vice President,1403.0,27.76,Sell,38947.28,F,D,full-submission.txt
+2024-02-25,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,Executive Vice President,15455.0,,Buy,,A,A,full-submission.txt
+2024-02-26,PFIZER INC,PFE,McDermott Michael,Executive Vice President,6063.0,27.18,Sell,164792.34,F,D,full-submission.txt
+2024-02-27,PFIZER INC,PFE,de Germay Alexandre,Executive Vice President,74377.0,,Buy,,A,A,full-submission.txt
+2024-02-27,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,5113.0,,Buy,,A,A,full-submission.txt
+2024-02-28,PFIZER INC,PFE,Dolsten Mikael,President RD,21437.0,27.04,Sell,579656.48,F,D,full-submission.txt
+2024-02-28,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,Executive Vice President,11510.0,,Buy,,A,A,full-submission.txt
+2024-02-28,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,Executive Vice President,4150.0,27.04,Sell,112216.0,F,D,full-submission.txt
+2024-05-31,PFIZER INC,PFE,Denton David M,Chief Financial Officer EVP,12107.0,28.66,Sell,346986.62,F,D,full-submission.txt
+2024-08-01,"Cerevel Therapeutics Holdings, Inc.",CERE,PFIZER INC,,27349211.0,45.0,Sell,1230714495.0,U,D,full-submission.txt
+2024-08-13,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,5154.0,28.66,Sell,147713.64,S,D,full-submission.txt
+2024-08-31,PFIZER INC,PFE,MALIK AAMIR,Executive Vice President,20195.0,29.01,Sell,585856.9500000001,F,D,full-submission.txt
+2024-10-30,PFIZER INC,PFE,Gottlieb Scott,,1000.0,28.24,Buy,28240.0,P,A,full-submission.txt
+2025-01-31,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,"President, RD",12038.0,26.52,Sell,319247.76,F,D,full-submission.txt
+2025-02-13,PFIZER INC,PFE,BLAYLOCK RONALD E,,19457.0,25.65,Buy,499072.05,P,A,full-submission.txt
+2025-02-22,PFIZER INC,PFE,McDermott Michael,Executive Vice President,497.0,26.3,Sell,13071.1,F,D,full-submission.txt
+2025-02-22,PFIZER INC,PFE,McDermott Michael,Executive Vice President,11125.0,30.17,Buy,335641.25,M,A,full-submission.txt
+2025-02-22,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,7798.0,26.08,Sell,203371.84,F,D,full-submission.txt
+2025-02-22,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,390.0,26.3,Sell,10257.0,F,D,full-submission.txt
+2025-02-22,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,8741.0,30.17,Buy,263715.97000000003,M,A,full-submission.txt
+2025-02-22,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,212680.0,26.08,Sell,5546694.399999999,F,D,full-submission.txt
+2025-02-22,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,8835.0,26.3,Sell,232360.5,F,D,full-submission.txt
+2025-02-22,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,238399.0,30.17,Buy,7192497.83,M,A,full-submission.txt
+2025-02-22,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,76565.0,26.08,Sell,1996815.2,F,D,full-submission.txt
+2025-02-22,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,3334.0,26.3,Sell,87684.2,F,D,full-submission.txt
+2025-02-22,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,11343.0,26.08,Sell,295825.44,F,D,full-submission.txt
+2025-02-22,PFIZER INC,PFE,McDermott Michael,Executive Vice President,9925.0,26.08,Sell,258843.99999999997,F,D,full-submission.txt
+2025-02-22,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,568.0,26.3,Sell,14938.4,F,D,full-submission.txt
+2025-02-22,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,12714.0,30.17,Buy,383581.38,M,A,full-submission.txt
+2025-02-22,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,56715.0,26.08,Sell,1479127.2,F,D,full-submission.txt
+2025-02-22,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,2785.0,26.3,Sell,73245.5,F,D,full-submission.txt
+2025-02-22,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,63573.0,30.17,Buy,1917997.4100000001,M,A,full-submission.txt
+2025-02-22,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,"President, RD",7798.0,26.08,Sell,203371.84,F,D,full-submission.txt
+2025-02-22,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,"President, RD",340.0,26.3,Sell,8942.0,F,D,full-submission.txt
+2025-02-22,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,"President, RD",8741.0,30.17,Buy,263715.97000000003,M,A,full-submission.txt
+2025-02-22,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,85824.0,30.17,Buy,2589310.08,M,A,full-submission.txt
+2025-02-23,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,"President, RD",662.0,26.3,Sell,17410.600000000002,F,D,full-submission.txt
+2025-02-23,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,390.0,26.3,Sell,10257.0,F,D,full-submission.txt
+2025-02-26,PFIZER INC,PFE,McDermott Michael,Executive Vice President,3220.0,26.42,Sell,85072.40000000001,F,D,full-submission.txt
+2025-02-26,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,"President, RD",9687.0,,Buy,,A,A,full-submission.txt
+2025-02-26,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,"President, RD",4872.0,26.42,Sell,128718.24,F,D,full-submission.txt
+2025-02-27,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,19054.0,31.31,Buy,596580.74,M,A,full-submission.txt
+2025-02-27,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,553.0,26.1,Sell,14433.300000000001,F,D,full-submission.txt
+2025-02-27,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,22416.0,31.31,Buy,701844.96,M,A,full-submission.txt
+2025-02-27,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,"President, RD",8909.0,26.1,Sell,232524.90000000002,F,D,full-submission.txt
+2025-02-27,PFIZER INC,PFE,BOSHOFF CHRISTOFFEL,"President, RD",17450.0,,Buy,,A,A,full-submission.txt
+2025-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,79779.0,26.06,Sell,2079040.74,F,D,full-submission.txt
+2025-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,2178.0,26.1,Sell,56845.8,F,D,full-submission.txt
+2025-02-27,PFIZER INC,PFE,SUSMAN SALLY,Executive Vice President,85182.0,31.31,Buy,2667048.42,M,A,full-submission.txt
+2025-02-27,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,17846.0,26.06,Sell,465066.75999999995,F,D,full-submission.txt
+2025-02-27,PFIZER INC,PFE,SAHNI PAYAL,Executive Vice President,468.0,26.1,Sell,12214.800000000001,F,D,full-submission.txt
+2025-02-27,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,20994.0,26.06,Sell,547103.64,F,D,full-submission.txt
+2025-02-27,PFIZER INC,PFE,McDermott Michael,Executive Vice President,45347.0,26.06,Sell,1181742.8199999998,F,D,full-submission.txt
+2025-02-27,PFIZER INC,PFE,McDermott Michael,Executive Vice President,48419.0,31.31,Buy,1515998.89,M,A,full-submission.txt
+2025-02-27,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,146961.0,26.06,Sell,3829803.6599999997,F,D,full-submission.txt
+2025-02-27,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,3589.0,26.1,Sell,93672.90000000001,F,D,full-submission.txt
+2025-02-27,PFIZER INC,PFE,LANKLER DOUGLAS M,Executive Vice President,156914.0,31.31,Buy,4912977.34,M,A,full-submission.txt
+2025-02-27,PFIZER INC,PFE,Fonseca Lidia,Executive Vice President,68022.0,26.06,Sell,1772653.3199999998,F,D,full-submission.txt
+2025-02-27,PFIZER INC,PFE,Fonseca Lidia,Executive Vice President,1683.0,26.1,Sell,43926.3,F,D,full-submission.txt
+2025-02-27,PFIZER INC,PFE,Fonseca Lidia,Executive Vice President,72629.0,31.31,Buy,2274013.9899999998,M,A,full-submission.txt
+2025-02-27,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,545855.0,26.06,Sell,14224981.299999999,F,D,full-submission.txt
+2025-02-27,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,18300.0,26.1,Sell,477630.0,F,D,full-submission.txt
+2025-02-27,PFIZER INC,PFE,BOURLA ALBERT,Chairman CEO,582823.0,31.31,Buy,18248188.13,M,A,full-submission.txt
+2025-02-27,PFIZER INC,PFE,McDermott Michael,Executive Vice President,1108.0,26.1,Sell,28918.800000000003,F,D,full-submission.txt
+2025-02-27,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,749.0,26.1,Sell,19548.9,F,D,full-submission.txt
+2025-03-04,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,5583.0,,Buy,,A,A,full-submission.txt
+2025-03-04,PFIZER INC,PFE,DAMICO JENNIFER B.,SVP Controller,2500.0,25.93,Sell,64825.0,S,D,full-submission.txt
